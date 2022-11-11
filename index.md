@@ -2,27 +2,23 @@
 
 ## Features
 
-### Writing tools
+### Grid planner
 
-#### Grid planner
+### Mindmaps
 
-#### Mindmaps
+### Snowflakes
 
-#### Snowflakes
+### Timelines
 
-#### Timelines
+### Cards
 
-#### Cards
+### Search
 
-#### Search
+### Focus mode
 
-### Behaviour
+### Pinning alignment (is that what the pins to either side of the writing pane are?)
 
-#### Focus mode
-
-#### Pinning alignment (is that what the pins to either side of the writing pane are?)
-
-#### I18n
+### I18n
 
 ## Navigation
 
