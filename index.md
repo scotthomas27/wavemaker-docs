@@ -12,7 +12,7 @@
     - [Cards](#cards)
     - [Search](#search)
     - [Focus mode](#focus-mode)
-    - [Pinning (the pins to either side of the writing pane?)](#pinning-the-pins-to-either-side-of-the-writing-pane)
+    - [Pinning](#pinning)
     - [I18n](#i18n)
   - [Installation](#installation)
     - [Browser](#browser)
@@ -41,16 +41,17 @@
 
 ## Introduction
 
-Wavemaker is designed to be a convenient and full-featured novel writing software.
+Wavemaker is designed to be a convenient, cross-platform and full-featured novel writing software solution.
 It is, and will remain, free and open-source.
 
-The software can be installed locally and used offline or access via a web interface.
-Both versions can be configured to sync to Google Drive.
+It can be installed locally and used offline or accessed via a web interface in any browser on any operating system.
+
+It can sync to Google Drive directly or manuscripts can be exported and imported (allowing you to use any backup option you prefer).
 
 ### Development
 
-Wavemaker is developed by [Iain Wood](https://github.com/mayasky76), who began working on it in 2016.
-The [project](https://github.com/wavemakercards) has had multiple release iterations since then.
+Wavemaker is developed by [Iain Wood](https://github.com/mayasky76).
+The [project](https://github.com/wavemakercards) has had multiple release iterations since it began in 2016.
 The latest release is [Version 4](wavemakercards.com).
 
 ## Features
@@ -59,7 +60,8 @@ Wavemaker includes various tools intended to make planning and writing your nove
 
 There is no _correct_ way to use Wavemaker.
 It is intended to be used the way **you** want to use it.
-While the writing tools do work together, you may prefer to just use one or two of them independently.
+
+While some of the writing tools listed below do work together, you may prefer to just use one or two of them independently.
 
 ### Writer
 
@@ -72,7 +74,8 @@ A sidebar allows you to create tagged notes and attach them to the page you are 
 ### Grid planner
 
 The Grid planner allows you to create a grid of color-coded, tagged and labelled entries that may assist you with planning out the events in your novel.
-The axes of the grid are entirely arbitrary, they can be whatever you need them to be (the passage of time, or different sub-plots).
+
+The axes of the grid are entirely arbitrary; they can be whatever you need them to be (the passage of time or different sub-plots, for example).
 
 ### Mindmaps
 
@@ -95,7 +98,9 @@ This tool is connected to the Writer tool; your timeline events can be imported 
 ### Focus mode
 
 
-### Pinning (the pins to either side of the writing pane?)
+### Pinning
+
+What are the pins to either side of the writing pane?
 
 
 ### I18n
