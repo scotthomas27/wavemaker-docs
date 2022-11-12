@@ -4,6 +4,16 @@
   - [Introduction](#introduction)
     - [Development](#development)
   - [Features](#features)
+    - [Writer](#writer)
+    - [Grid planner](#grid-planner)
+    - [Mindmaps](#mindmaps)
+    - [Snowflakes](#snowflakes)
+    - [Timelines](#timelines)
+    - [Cards](#cards)
+    - [Search](#search)
+    - [Focus mode](#focus-mode)
+    - [Pinning (the pins to either side of the writing pane?)](#pinning-the-pins-to-either-side-of-the-writing-pane)
+    - [I18n](#i18n)
   - [Installation](#installation)
     - [Browser](#browser)
     - [Offline](#offline)
@@ -11,13 +21,8 @@
     - [Snapshots](#snapshots)
   - [Navigation](#navigation)
     - [Main Menu](#main-menu)
-    - [Manuscripts](#manuscripts)
-    - [Planning Boards](#planning-boards)
-    - [Mindmaps](#mindmaps)
-    - [Snowflakes](#snowflakes)
-    - [Timelines](#timelines)
-    - [Grid Planner](#grid-planner)
-    - [Search](#search)
+    - [Top bar](#top-bar)
+    - [Sidebars](#sidebars)
   - [Getting started](#getting-started)
     - [Creating a new project](#creating-a-new-project)
     - [Load a file from Google Drive](#load-a-file-from-google-drive)
@@ -52,42 +57,53 @@ The latest release is [Version 4](wavemakercards.com).
 
 Wavemaker includes various tools intended to make planning and writing your novel as easy as possible.
 
-The sections below cover the writing tools included in Wavemaker in more detail.
-
-There is no correct way to use Wavemaker.
+There is no *correct* way to use Wavemaker.
 It is intended to be used the way YOU want to use it.
-
 While the writing tools do work together, you may prefer to just use one or two of them independently.
 
-Writer
-: The Writer tool is the text editor built into Wavemaker. It includes various formatting options including **bold** and __italics__, images and quotes. A sidebar allows
+The sections below cover the writing tools included in Wavemaker in more detail.
 
-Grid planner
-: The Grid planner allows you to create a grid of color-coded, tagged and labelled notes that may assist you with planning out the events in your novel. This tool is connected to the Writer tool
 
-Mindmaps
-: The Mindmap tool helps you visualize how the various concepts in your novel
+### Writer
 
-Snowflakes
-:
+The Writer tool is the text editor built into Wavemaker.
+It includes various formatting options including **bold** and *italics*, images and quotes.
+A sidebar allows you to create tagged notes and attach them to the page you are working on. [^1]
 
-Timelines
-:
+| :alert: **@mayasky76**:  Has the 'Focus mode' gone away?|
+| ------------ |
 
-Cards
-:
+### Grid planner
 
-Search
-:
+The Grid planner allows you to create a grid of color-coded, tagged and labelled notes that may assist you with planning out the events in your novel.
+This tool is connected to the Writer tool; your timeline events can be imported into the Writer as separate pages.
 
-Focus mode
-:
+### Mindmaps
 
-Pinning (the pins to either side of the writing pane?)
-:
+The Mindmap tool helps you visualize how the various concepts in your novel connect with each other.
 
-I18n
-:
+This tool is not connected to any other.
+
+### Snowflakes
+
+
+### Timelines
+
+
+### Cards
+
+
+### Search
+
+
+### Focus mode
+
+
+### Pinning (the pins to either side of the writing pane?)
+
+
+### I18n
+
 
 ## Installation
 
@@ -103,19 +119,9 @@ I18n
 
 ### Main Menu
 
-### Manuscripts
+### Top bar
 
-### Planning Boards
-
-### Mindmaps
-
-### Snowflakes
-
-### Timelines
-
-### Grid Planner
-
-### Search
+### Sidebars
 
 ## Getting started
 
