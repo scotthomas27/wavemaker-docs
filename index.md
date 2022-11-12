@@ -70,7 +70,7 @@ The Writer tool is the text editor built into Wavemaker.
 It includes various formatting options including **bold** and *italics*, images and quotes.
 A sidebar allows you to create tagged notes and attach them to the page you are working on. [^1]
 
-| :alert: **@mayasky76**:  Has the 'Focus mode' gone away?|
+| :warning: **@mayasky76**:  Has the 'Focus mode' gone away?|
 | ------------ |
 
 ### Grid planner
