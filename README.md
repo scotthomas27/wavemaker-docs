@@ -15,3 +15,14 @@ Wavemaker V3 is available at [wavemaker.cards](wavemaker.cards)
 
 | :x: **WARNING**: This is a warning.|
 | ------------ |
+
+
+
+| :pushpin: **NOTE**: This is a note.|
+| ------------ |
+
+| :warning: **IMPORTANT**: This is important.|
+| ------------ |
+
+| :triangular_flag_on_post: **WARNING**: This is a warning.|
+| ------------ |
