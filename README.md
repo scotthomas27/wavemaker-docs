@@ -6,9 +6,9 @@ Wavemaker V4 is in ALPHA release status and undergoing active development.
 
 Wavemaker V3 is available at [wavemaker.cards](wavemaker.cards)
 
----
-:heavy_exclamation_mark: **NOTE:** This is a note.
----
+
+:heavy_exclamation_mark: ***NOTE:*** _This is a note._
+
 
 | :bangbang: **IMPORTANT**: This is important.|
 | ------------ |
