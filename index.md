@@ -57,8 +57,8 @@ The latest release is [Version 4](wavemakercards.com).
 
 Wavemaker includes various tools intended to make planning and writing your novel as easy as possible.
 
-There is no *correct* way to use Wavemaker.
-It is intended to be used the way YOU want to use it.
+There is no _correct_ way to use Wavemaker.
+It is intended to be used the way **you** want to use it.
 While the writing tools do work together, you may prefer to just use one or two of them independently.
 
 The sections below cover the writing tools included in Wavemaker in more detail.
@@ -67,7 +67,7 @@ The sections below cover the writing tools included in Wavemaker in more detail.
 
 The Writer tool is the text editor built into Wavemaker.
 It includes various formatting options including **bold** and *italics*, images and quotes.
-A sidebar allows you to create tagged notes and attach them to the page you are working on. [^1]
+A sidebar allows you to create tagged notes and attach them to the page you are working on.
 
 :heavy_exclamation_mark: ***NOTE:*** _@mayasky76, has the 'Focus mode' gone away?._
 
