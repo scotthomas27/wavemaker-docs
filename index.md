@@ -63,15 +63,13 @@ While the writing tools do work together, you may prefer to just use one or two 
 
 The sections below cover the writing tools included in Wavemaker in more detail.
 
-
 ### Writer
 
 The Writer tool is the text editor built into Wavemaker.
 It includes various formatting options including **bold** and *italics*, images and quotes.
 A sidebar allows you to create tagged notes and attach them to the page you are working on. [^1]
 
-| :warning: **@mayasky76**:  Has the 'Focus mode' gone away?|
-| ------------ |
+:heavy_exclamation_mark: ***NOTE:*** _@mayasky76, has the 'Focus mode' gone away?._
 
 ### Grid planner
 
