@@ -45,7 +45,7 @@ Both versions can be configured to sync to Google Drive.
 ### Development
 
 Wavemaker is developed by [Iain Wood](https://github.com/mayasky76), who began working on it in 2016.
-The [@wavemaker](https://github.com/wavemakercards) project has had multiple release iterations since then.
+The [project](https://github.com/wavemakercards) has had multiple release iterations since then.
 The latest release is [Version 4](wavemakercards.com).
 
 ## Features
