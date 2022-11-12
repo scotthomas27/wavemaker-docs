@@ -61,8 +61,6 @@ There is no _correct_ way to use Wavemaker.
 It is intended to be used the way **you** want to use it.
 While the writing tools do work together, you may prefer to just use one or two of them independently.
 
-The sections below cover the writing tools included in Wavemaker in more detail.
-
 ### Writer
 
 The Writer tool is the text editor built into Wavemaker.
@@ -73,19 +71,19 @@ A sidebar allows you to create tagged notes and attach them to the page you are 
 
 ### Grid planner
 
-The Grid planner allows you to create a grid of color-coded, tagged and labelled notes that may assist you with planning out the events in your novel.
-This tool is connected to the Writer tool; your timeline events can be imported into the Writer as separate pages.
+The Grid planner allows you to create a grid of color-coded, tagged and labelled entries that may assist you with planning out the events in your novel.
+The axes of the grid are entirely arbitrary, they can be whatever you need them to be (the passage of time, or different sub-plots).
 
 ### Mindmaps
 
 The Mindmap tool helps you visualize how the various concepts in your novel connect with each other.
 
-This tool is not connected to any other.
-
 ### Snowflakes
 
 
 ### Timelines
+
+This tool is connected to the Writer tool; your timeline events can be imported into the Writer as separate pages.
 
 
 ### Cards
