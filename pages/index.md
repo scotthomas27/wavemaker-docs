@@ -1,3 +1,5 @@
+<!-- Icons available at https://fonts.google.com/icons?icon.style=Filled&icon.set=Material+Icons -->
+
 # Wavemaker Documentation
 
 - [Wavemaker Documentation](#wavemaker-documentation)
@@ -20,6 +22,7 @@
     - [PWA](#pwa)
     - [Snapshots](#snapshots)
   - [Navigation](#navigation)
+    - [Landing page](#landing-page)
     - [Main Menu](#main-menu)
     - [Top bar](#top-bar)
     - [Sidebars](#sidebars)
@@ -105,6 +108,18 @@ What are the pins to either side of the writing pane?
 
 ### I18n
 
+When you first access Wavemaker, you will see a drop-down menu pre-populated with a locale language code.
+Clicking on the down arrow on this menu will reveal the language options available in Wavemaker.
+
+The language options at the time of release are:
+
+1. English (en)
+2. Deutsch (de)
+3. Espanol (es)
+4. Francaise (fr)
+5. Cymraeg (cy)
+
+
 
 ## Installation
 
@@ -117,6 +132,19 @@ What are the pins to either side of the writing pane?
 ### Snapshots
 
 ## Navigation
+
+### Landing page
+
+When you first access Wavemaker, be it a local installation or the web version, you'll be presented with a few options.
+
+These options are:
+
+**New project:** Create a new, empty project.
+If you select this option, you will be presented with the following links:
+* <img src="images/help.svg" width="24" height="24" /> Help and Guides on how to use Wavemaker. This option will bring you to this documentation.
+* <img src="images/help.svg" width="24" height="24" /> Your Manuscripts
+* Your mindmaps
+*
 
 ### Main Menu
 
