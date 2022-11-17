@@ -2,7 +2,7 @@
   - [Writer](#writer)
   - [Cards](#cards)
   - [Planning boards](#planning-boards)
-  - [Mindmaps](#mindmaps)
+  - [<img src="../images/mindmap-icon.png" alt="Mindmap icon" width="30"/> Mindmaps](#-mindmaps)
   - [Grid planner](#grid-planner)
   - [Snowflakes](#snowflakes)
   - [Timelines](#timelines)
@@ -32,8 +32,8 @@ It also includes a link to the [Grid Planner](#grid-planner) and a [focus mode](
 A sidebar to the left shows the sections (or chapters) of your manuscript.
 This sidebar is discussed in more detail in the [Navigation](navigation.md) section.
 
-A sidebar to the right of the page allows you to create reference cards and attach them to the page you are working on.
-These [cards](#cards) are discussed below.
+A sidebar to the right of the page allows you to create reference [cards](#cards) and attach them to the page you are working on.
+These cards are discussed below.
 
 Both sidebars can be pinned open for easy access or unpinned for a larger editing page.
 
@@ -53,22 +53,25 @@ They can be sorted, tagged and coloured in any way that makes sense to you.
 
 ## Planning boards
 
-Planning boards allow you to create a grid of color-coded, tagged cards that may assist you with planning out the events in your novel.
+Planning boards allow you to create a grid of colour-coded, tagged cards that may assist you with planning out the events in your novel.
 Each column in the grid corresponds to a section in your manuscript.
-The rows in each column are the cards attached to that section.
+The cells in each column are the cards attached to that section.
 
-The board works in conjuction with the writer; you can create cards in the Writer siebar that will automatically populate the linked column in the associated Planning board.
-Likewise, you can create a Planning board full of detailed cards, and Wavemaker will automatically create a chapter with the same title for each column in the Writer tool.
+To create a new board from the home page,...
+To create a new board from within Wavemaker,...
 
-From the Writer sidebar, you can use the pop-out button to open the grid planner in its own window.
+The board works in conjuction with the writer; you can create cards in the Writer siebar that will automatically populate a corresponding column in the associated Planning board.
+Likewise, you can create a Planning board full of detailed cards and Wavemaker will automatically create matching sections in the Writer tool. Each column in the board becomes linked to a section with the same title. Any notes in the column will be automatically attached to the sidebar of the corresponding section.
 
-## Mindmaps
+From the Writer sidebar, you can use the pop-out button to open the grid planner in its own window, allowing you ease of reference without cluttering the Writer interface.
+
+## <img src="../images/mindmap-icon.png" alt="Mindmap icon" width="30"/> Mindmaps
 
 The Mindmap tool helps you visualise how the various concepts in your novel connect with each other.
 
-To create a new mindmap from the home page, select the _Your Mindmaps_ entry and then click the Mindmap icon (<img src="../images/mindmap-icon.png" alt="Mindmap icon" width="16"/>) at the top right.
+To create a new mindmap from the home page, select the _Your Mindmaps_ entry and then click the Mindmap icon at the top right.
 
-To create a new mindmap from within Wavemaker, click the Wavemaker icon at the top left of the page and select the Mindmap icon (<img src="../images/mindmap-icon.png" alt="Mindmap icon" width="16"/>) from the dropdown menu.
+To create a new mindmap from within Wavemaker, click the Wavemaker icon at the top left of the page and select the Mindmap icon from the dropdown menu.
 
 Once in a mindmap, use the icons to the top left to create new nodes, either image or text, and the style of link between them.
 
