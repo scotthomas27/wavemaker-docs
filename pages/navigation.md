@@ -29,3 +29,16 @@ You will be presented with the following links:
 ## Top bar
 
 ## Sidebars
+
+Within this sidebar you can create new sections by clicking on one of the two icons at the top of the sidebar.
+A new section can either be a _child_ (<img src="../images/new-child-section.png" alt="New child" width="16"/>) or _sibling_ (<img src="../images/new-sibling-section.png" alt="New sibling" width="16"/>) to the section currently open in the Writer.
+Child sections are nested below the parent section while sibling sections are on the same level.
+
+You can reorder the sections by dragging the section icon to the desired location.
+You can also delete sections by clicking on the `x` icon that becomes visible to the right of any section when you hover your cursor over it.
+
+You can pin sidebars open with the pin icons at the top left and top right of the writer page.
+
+The left sidebar contains links to the various pages in your manuscript.
+The right sidebar is a Card manager.
+It allows you to create Cards for, or link existing Cards to, this page.
