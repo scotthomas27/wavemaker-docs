@@ -1,8 +1,8 @@
 - [Features](#features)
-  - [Writer](#writer)
+  - [<img src="../images/manuscript.svg" alt="Writer tool" width="36"/> Writer](#-writer)
   - [Cards](#cards)
   - [Planning boards](#planning-boards)
-  - [<img src="../images/mindmap-icon.png" alt="Mindmap icon" width="30"/> Mindmaps](#-mindmaps)
+  - [<img src="../images/mindmap-icon-blk.png" alt="Mindmap icon" width="36"/> Mindmaps](#-mindmaps)
   - [Grid planner](#grid-planner)
   - [Snowflakes](#snowflakes)
   - [Timelines](#timelines)
@@ -19,7 +19,7 @@ It is intended to be used the way **you** want to use it.
 
 While some of the writing tools listed below do work together, you may prefer to just use one or two of them independently.
 
-## Writer
+## <img src="../images/manuscript.svg" alt="Writer tool" width="36"/> Writer
 
 The Writer tool is the text editor/word processor built into Wavemaker.
 
@@ -65,7 +65,7 @@ Likewise, you can create a Planning board full of detailed cards and Wavemaker w
 
 From the Writer sidebar, you can use the pop-out button to open the grid planner in its own window, allowing you ease of reference without cluttering the Writer interface.
 
-## <img src="../images/mindmap-icon.png" alt="Mindmap icon" width="30"/> Mindmaps
+## <img src="../images/mindmap-icon-blk.png" alt="Mindmap icon" width="36"/> Mindmaps
 
 The Mindmap tool helps you visualise how the various concepts in your novel connect with each other.
 
