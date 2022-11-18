@@ -1,13 +1,13 @@
 - [Features](#features)
-  - [<img src="../images/manuscript.svg" alt="Writer tool" width="30"/> Writer](#-writer)
+  - [<img src="../images/manuscript-icon.png" alt="Writer tool" width="30"/> Writer](#-writer)
   - [Focus mode](#focus-mode)
   - [Cards](#cards)
-  - [Planning boards](#planning-boards)
-  - [<img src="../images/mindmap-icon.png" alt="Mindmap icon" width="30"/> Mindmaps](#-mindmaps)
-  - [Snowflakes](#snowflakes)
-  - [Grid planner](#grid-planner)
-  - [Timelines](#timelines)
-  - [Search](#search)
+  - [<img src="../images/planning-board-icon.png" alt="Planning boards" width="24"/>Planning boards](#planning-boards)
+  - [<img src="../images/mindmap-icon.png" alt="Mindmaps" width="30"/> Mindmaps](#-mindmaps)
+  - [<img src="../images/snowflakes-icon.png" alt="Snowflakes" width="24"/> Snowflakes](#-snowflakes)
+  - [<img src="../images/timelines-icon.png" alt="Timelines" width="24"/> Timelines](#-timelines)
+  - [<img src="../images/grid-planner-icon.png" alt="Grid planners" width="24"/> Grid planner](#-grid-planner)
+  - [<img src="../images/search-icon.png" alt="Search" width="24"/> Search](#-search)
 
 # Features
 
@@ -18,7 +18,7 @@ It is intended to be used the way **you** want to use it.
 
 While some of the writing tools listed below do work together, you may prefer to just use one or two of them independently.
 
-## <img src="../images/manuscript.svg" alt="Writer tool" width="30"/> Writer
+## <img src="../images/manuscript-icon.png" alt="Writer tool" width="30"/> Writer
 
 The Writer tool is the text editor/word processor built into Wavemaker.
 
@@ -51,7 +51,7 @@ The image below shows the new card interface:
 
 <img src="../images/new-card.png" alt="New card" width="500"/>
 
-## Planning boards
+## <img src="../images/planning-board-icon.png" alt="Planning boards" width="24"/>Planning boards
 
 Planning boards allow you to create a grid of cards that may assist you with planning out the events in your novel.
 Each column in the grid corresponds to a section in your manuscript.
@@ -66,7 +66,7 @@ Likewise, you can create a Planning board full of detailed cards and Wavemaker w
 
 From the Writer sidebar, you can use the pop-out button to open the grid planner in its own window, allowing you ease of reference without cluttering the Writer interface.
 
-## <img src="../images/mindmap-icon.png" alt="Mindmap icon" width="30"/> Mindmaps
+## <img src="../images/mindmap-icon.png" alt="Mindmaps" width="30"/> Mindmaps
 
 The Mindmap tool helps you visualise how the various concepts in your novel connect with each other.
 
@@ -88,7 +88,7 @@ They will turn red on cursor hover and disappear when clicked.
 
 Add concepts and ideas, images and explanations as you need and let the tool help you visualise how they relate to each other.
 
-## Snowflakes
+## <img src="../images/snowflakes-icon.png" alt="Snowflakes" width="24"/> Snowflakes
 
 The _Snowflake method_ was devised by an author by the name of [Randy Ingermanson](https://www.ingermanson.com/).
 The snowflake method gradually adds details and complexity to a simple summary until a complete novel is formed.
@@ -116,14 +116,13 @@ If you click OK, your original summary card will disappear and your first level 
 
 You can now repeat the process, expanding on each card as you can until you have a detailed synopsis of your novel.
 
-## Grid planner
-
-
-## Timelines
+## <img src="../images/timelines-icon.png" alt="Timelines" width="24"/> Timelines
 
 This tool is connected to the Writer tool; your timeline events can be imported into the Writer as separate pages.
 
-## Search
+## <img src="../images/grid-planner-icon.png" alt="Grid planners" width="24"/> Grid planner
+
+## <img src="../images/search-icon.png" alt="Search" width="24"/> Search
 
 
 
