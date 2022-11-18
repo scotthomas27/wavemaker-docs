@@ -1,4 +1,5 @@
 - [Navigation](#navigation)
+  - [I18n](#i18n)
   - [Landing page](#landing-page)
     - [New project](#new-project)
   - [Main Menu](#main-menu)
@@ -6,6 +7,19 @@
   - [Sidebars](#sidebars)
 
 # Navigation
+
+## I18n
+
+When you first access Wavemaker, you will see a drop-down menu pre-populated with a locale language code.
+Clicking on the down arrow on this menu will reveal the language options available in Wavemaker.
+
+The language options at the time of release are:
+
+1. English (en)
+2. Deutsch (de)
+3. Espanol (es)
+4. Francaise (fr)
+5. Cymraeg (cy)
 
 ## Landing page
 
@@ -42,3 +56,4 @@ You can pin sidebars open with the pin icons at the top left and top right of th
 The left sidebar contains links to the various pages in your manuscript.
 The right sidebar is a Card manager.
 It allows you to create Cards for, or link existing Cards to, this page.
+

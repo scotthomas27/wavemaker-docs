@@ -1,14 +1,13 @@
 - [Features](#features)
   - [<img src="../images/manuscript.svg" alt="Writer tool" width="30"/> Writer](#-writer)
+  - [Focus mode](#focus-mode)
   - [Cards](#cards)
   - [Planning boards](#planning-boards)
-  - [<img src="../images/mindmap-icon-blk.png" alt="Mindmap icon" width="30"/> Mindmaps](#-mindmaps)
+  - [<img src="../images/mindmap-icon.png" alt="Mindmap icon" width="30"/> Mindmaps](#-mindmaps)
   - [Snowflakes](#snowflakes)
   - [Grid planner](#grid-planner)
   - [Timelines](#timelines)
   - [Search](#search)
-  - [Focus mode](#focus-mode)
-  - [I18n](#i18n)
 
 # Features
 
@@ -36,6 +35,8 @@ A sidebar to the right of the page allows you to create reference [cards](#cards
 These cards are discussed below.
 
 Both sidebars can be pinned open for easy access or unpinned for a larger editing page.
+
+## Focus mode
 
 ## Cards
 
@@ -65,7 +66,7 @@ Likewise, you can create a Planning board full of detailed cards and Wavemaker w
 
 From the Writer sidebar, you can use the pop-out button to open the grid planner in its own window, allowing you ease of reference without cluttering the Writer interface.
 
-## <img src="../images/mindmap-icon-blk.png" alt="Mindmap icon" width="30"/> Mindmaps
+## <img src="../images/mindmap-icon.png" alt="Mindmap icon" width="30"/> Mindmaps
 
 The Mindmap tool helps you visualise how the various concepts in your novel connect with each other.
 
@@ -85,44 +86,48 @@ Either of the linked nodes can now be moved freely around the mindmap space and 
 Remove links by clicking on them.
 They will turn red on cursor hover and disappear when clicked.
 
+Add concepts and ideas, images and explanations as you need and let the tool help you visualise how they relate to each other.
+
 ## Snowflakes
 
 The _Snowflake method_ was devised by an author by the name of [Randy Ingermanson](https://www.ingermanson.com/).
-The premise of the snowflake method is gradually adding details and complexity to a simple summary until a complete novel is formed.
+The snowflake method gradually adds details and complexity to a simple summary until a complete novel is formed.
 
 To create a new snowflake from the home page, select the _Your Snowflakes_ entry and then click the snowflake icon at the top right.
 
 To create a new snowflake from within Wavemaker, click the Wavemaker icon at the top left of the page, then the snowflake icon from the dropdown menu and finally the snowflake icon to the top right of the  _Your Snowflakes_ heading.
 
+To use the Snowflake tool, type a title and a short concept or summary into the blank card.
+Once you have the summary worded to your liking, click the _stacked boxes_ icon to the right of the card.
+You can also delete the card by clicking the _trashcan_ icon at the top right of the card.
+
+Clicking the _stacked boxes_ icon will present you with the first snowflake expansion of your concept.
+Three more cards will appear stacked to the right of the original card.
+Clicking on the boxes icon again will remove the new cars.
+
+At this point the method requires you break your summary down into a beginning, middle and end (typing them into the appropriate boxes).
+You can Tab key between the six new fields (title and body for each new card), from top to bottom.
+
+Once you have expanded your summary this way, you can click the arrows icon (which takes the place of the box icon).
+You will be prompted that continuing will replace your original card with the three new ones.
+Click OK or Cancel as you choose.
+
+If you click OK, your original summary card will disappear and your first level breakdown card will be centred on the page and will each now have a _stacked boxes_ icon attached.
+
+You can now repeat the process, expanding on each card as you can until you have a detailed synopsis of your novel.
 
 ## Grid planner
-
-
-
-
 
 
 ## Timelines
 
 This tool is connected to the Writer tool; your timeline events can be imported into the Writer as separate pages.
 
-
 ## Search
 
-## Focus mode
 
-## I18n
 
-When you first access Wavemaker, you will see a drop-down menu pre-populated with a locale language code.
-Clicking on the down arrow on this menu will reveal the language options available in Wavemaker.
 
-The language options at the time of release are:
-
-1. English (en)
-2. Deutsch (de)
-3. Espanol (es)
-4. Francaise (fr)
-5. Cymraeg (cy)
 
 
 
