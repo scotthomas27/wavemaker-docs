@@ -1,6 +1,6 @@
 - [Features](#features)
   - [<img src="../images/manuscript-icon.png" alt="Writer tool" width="30"/> Writer](#-writer)
-  - [Focus mode](#focus-mode)
+  - [Distraction-Free mode](#distraction-free-mode)
   - [Cards](#cards)
   - [<img src="../images/planning-board-icon.png" alt="Planning boards" width="24"/>Planning boards](#planning-boards)
   - [<img src="../images/mindmap-icon.png" alt="Mindmaps" width="30"/> Mindmaps](#-mindmaps)
@@ -36,7 +36,22 @@ These cards are discussed below.
 
 Both sidebars can be pinned open for easy access or unpinned for a larger editing page.
 
-## Focus mode
+## Distraction-Free mode
+
+:heavy_exclamation_mark: ***NOTE:*** _This content is based on Version 3 as the V4 Writer tool wasn't working when I wrote it. ._
+
+Distraction-Free mode is accessed through the Writer tool.
+Click the 'eye' icon in the top bar to enter Distraction-Free mode.
+
+This mode aims to help you concentrate on your writing by removing as much of the Wavemaker UI as practical.
+All that remains visible is the Writer formatting bar.
+
+While in Distraction-Free mode, your text is centred in the window and the background is changed to a darker colour.
+Both of these changes are intended to reduce eye-strain.
+
+As you type, the text automatically rises so that your cursor, and your current work, are at a comfortable eye-level.
+
+Exit Distraction-Free mode by clicking on the 'eye' icon again.
 
 ## Cards
 
@@ -57,8 +72,8 @@ Planning boards allow you to create a grid of cards that may assist you with pla
 Each column in the grid corresponds to a section in your manuscript.
 The cells in each column are the cards attached to that section.
 
-To create a new board from the home page, click on the _Your Manuscripts_ entry and then click on the document icon at the top right.
-To create a new board from within Wavemaker, click the Wavemaker icon at the top left of the page, then the manscript icon from the dropdown menu and finally the document icon to the top right of the  _Your Manuscripts_ heading.
+To create a new board from the home page, click on the _Planning boards_ entry and then click on the document icon at the top right.
+To create a new board from within Wavemaker, click the  _Planning boards_ icon in the top bar.
 
 The board works in conjuction with the writer; you can create cards in the Writer siebar that will automatically populate a corresponding column in the associated Planning board.
 
@@ -72,7 +87,7 @@ The Mindmap tool helps you visualise how the various concepts in your novel conn
 
 To create a new mindmap from the home page, select the _Your Mindmaps_ entry and then click the mindmap icon at the top right.
 
-To create a new mindmap from within Wavemaker, click the Wavemaker icon at the top left of the page, then the mindmap icon from the dropdown menu and finally the mindmap icon to the top right of the  _Your Mindmaps_ heading.
+To create a new mindmap from within Wavemaker, click the _Mindmaps Tool_ icon in the top bar.
 
 Once in a mindmap, use the icons to the top left to create new nodes, either image or text, and the style of link between them.
 
@@ -95,7 +110,7 @@ The snowflake method gradually adds details and complexity to a simple summary u
 
 To create a new snowflake from the home page, select the _Your Snowflakes_ entry and then click the snowflake icon at the top right.
 
-To create a new snowflake from within Wavemaker, click the Wavemaker icon at the top left of the page, then the snowflake icon from the dropdown menu and finally the snowflake icon to the top right of the  _Your Snowflakes_ heading.
+To create a new snowflake from within Wavemaker, click the _Snowflake Tool_ icon in the top bar.
 
 To use the Snowflake tool, type a title and a short concept or summary into the blank card.
 Once you have the summary worded to your liking, click the _stacked boxes_ icon to the right of the card.
