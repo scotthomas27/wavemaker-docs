@@ -1,0 +1,8 @@
+= Development
+
+Wavemaker is developed by https://github.com/mayasky76[Iain Wood].
+
+The https://github.com/wavemakercards[project] has had multiple release iterations since it began in 2016.
+The latest release is link:wavemakercards.com[Version 4].
+
+If you would like to be involved with the project, reach out to ...

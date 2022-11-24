@@ -1,0 +1,17 @@
+:doctype: book
+
+* <<installation,Installation>>
+ ** <<browser,Browser>>
+ ** <<offline,Offline>>
+ ** <<pwa,PWA>>
+ ** <<snapshots,Snapshots>>
+
+= Installation
+
+== Browser
+
+== Offline
+
+== PWA
+
+== Snapshots

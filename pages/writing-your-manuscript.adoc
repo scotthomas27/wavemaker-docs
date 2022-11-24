@@ -1,0 +1,17 @@
+:doctype: book
+
+* <<writing-your-manuscript,Writing your manuscript>>
+ ** <<adding-text,Adding text>>
+ ** <<adding-formatting,Adding formatting>>
+ ** <<adding-images,Adding images>>
+ ** <<adding-notes,Adding notes>>
+
+= Writing your manuscript
+
+== Adding text
+
+== Adding formatting
+
+== Adding images
+
+== Adding notes

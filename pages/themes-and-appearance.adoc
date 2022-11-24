@@ -1,0 +1,5 @@
+:doctype: book
+
+* <<themes-and-appearance,Themes and appearance>>
+
+= Themes and appearance
