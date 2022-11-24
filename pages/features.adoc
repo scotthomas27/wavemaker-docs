@@ -43,8 +43,7 @@ Both sidebars can be pinned open for easy access or unpinned for a larger editin
 
 == Distraction-Free mode
 
-:heavy_exclamation_mark: *_NOTE:_* _This content is based on Version 3 as the V4 Writer tool wasn't working when I wrote it.
-._
+NOTE: This content is based on Version 3 as the V4 Writer tool wasn't working when I wrote it.
 
 Distraction-Free mode is accessed through the Writer tool.
 Click the 'eye' icon in the top bar to enter Distraction-Free mode.
