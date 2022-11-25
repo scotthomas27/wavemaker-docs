@@ -58,12 +58,15 @@ As you type, the text automatically rises so that your cursor, and your current 
 
 Exit Distraction-Free mode by clicking on the 'eye' icon again.
 
-== Cards
+[#cards]
+== image:../images/cards-database-icon.png[Cards database,24] Cards
 
-Cards are a powerful tool that allows pertinent textual or visual details to be readily available when you need them.
+Cards are a powerful tool that allows pertinent text or visual details to be readily available when you need them.
 
 Cards tie many of Wavemaker's tools together.
-Cards created in one part of the software (the Writer sidebar, for example) appear in other parts of the software (such as the Grid Planner).
+Cards can be created man different parts of Wavemaker (the <<#writer,Writer>> sidebar or the <<#grid-planner,Grid Planner>>, for example)
+All the cards you create will be stored in the
+in one part of the software () appear in other parts of the software (such as ).
 
 They can be coloured and tagged to assist with sorting and identification.
 
@@ -81,8 +84,7 @@ The cells in each column are the cards attached to that section.
 To create a new board from the home page, click on the _Planning boards_ entry and then click on the document icon at the top right.
 To create a new board from within Wavemaker, click the  _Planning boards_ icon in the top bar.
 
-The board works in conjuction with the writer;
-you can create cards in the Writer siebar that will automatically populate a corresponding column in the associated Planning board.
+The board works in conjunction with the writer; you can create cards in the Writer sidebar that will automatically populate a corresponding column in the associated planning board.
 
 Likewise, you can create a Planning board full of detailed cards and Wavemaker will automatically create matching sections in the Writer tool.
 Each column in the board becomes linked to a section with the same title.
@@ -135,21 +137,53 @@ At this point the method requires you break your summary down into a beginning, 
 You can Tab key between the six new fields (title and body for each new card), from top to bottom.
 
 Once you have expanded your summary this way, you can click the arrows icon (which takes the place of the box icon).
-You will be prompted that continuing will replace your original card with the three new ones.
+You will be prompted that this action will replace your original card with the three new ones.
 Click OK or Cancel as you choose.
 
-If you click OK, your original summary card will disappear and your first level breakdown card will be centred on the page and will each now have a _stacked boxes_ icon attached.
+If you click OK, your original summary card will disappear and your first level breakdown cards will be centred on the page and will each now have a _stacked boxes_ icon attached.
 
 You can now repeat the process, expanding on each card as you can until you have a detailed synopsis of your novel.
 
 [#timelies]
 == image:../images/timelines-icon.png[Timelines,24] Timelines
 
-This tool is connected to the Writer tool;
-your timeline events can be imported into the Writer as separate pages.
+The timeline tool allows you to organise the events of your story around a vertical axis that represents the linear chronology.
+
+The events are created in entry cards (these are different to the <<Cards>> feature) that hang on the timeline.
+Each entry has a clear space for a time and date, as well as a title and description.
+
+New cards can be added by clicking on the button highlighted in the image below.
+Each new card will alternate its orientation from the one above.
+
+image::../images/timeline-cards.png[Multiple Timeline cards]
+
+Cards can also be moved up and down the timeline by dragging the directional cross in the `Date/Time` field.
+You can delete a card by clicking on the `x` icon that appears when you hover over the `Date/Time` field.
+
+image::../images/timeline-card-delete.png[Delete a Timeline card]
+
+This tool is connected to the Writer tool; click the export button at the top right of the tool and your timeline events will be imported into the Writer as separate pages.
+
+image::../images/timeline-export.png[Timeline export]
 
 [#grid-planner]
 == image:../images/grid-planner-icon.png[Grid planners,24] Grid planner
+
+The Grid Planner is another way to organise your thoughts when writing your manuscript.
+
+The tool lets you create a grid of ideas, images, reminders, events or anything else you might need.
+
+Use the buttons at the top right of the tool to create rows and columns as needed: image:../images/grid-add-rows-columns.png[Add rows and columns]
+
+The axes on the grid can represent whatever you need them to.
+They are completely arbitrary.
+
+You can name the columns and rows individually and drag them around using the 'hamburger' icons in the top left of each.
+
+image::../images/grid-planner-tool.png[The Grid Planner]
+
+To populate the cells in the grid, click on the icon in the centre and choose to either create a new card or link an existing card.
+These cards will be added to the <<Cards>> database along with any other cards you have created in other tools within the software.
 
 [#search]
 == image:../images/search-icon.png[Search,24] Search
