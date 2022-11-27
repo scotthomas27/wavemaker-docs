@@ -1,5 +1,4 @@
 :doctype: book
-
 :toc:
 :toclevels: 1
 
@@ -13,12 +12,12 @@ It is intended to be used the way *you* want to use it.
 While some of the writing tools listed below do work together, you may prefer to just use one or two of them independently.
 
 [#writer]
-== image:../images/manuscript-icon.png[Writer tool,30] Writer
+== image:../images/manuscript-icon.png[Writer tool,24] Writer
 
 The Writer tool is the text editor/word processor built into Wavemaker.
 
 It includes *bold*, _italic_ and [.line-through]#strikethrough# text formatting.
-It supports inserting headings and subheadings, images, bulleted and numbered lists and quotes.
+It supports inserting headings and subheadings, images, bulleted and numbered lists, and quotes.
 It also includes a link to the <<grid-planner,Grid Planner>> and a <<focus-mode,focus mode>>.
 
 image::../images/writer-bar.png[Writer bar]
@@ -38,34 +37,34 @@ NOTE: This content is based on Version 3 as the V4 Writer tool wasn't working wh
 Distraction-Free mode is accessed through the Writer tool.
 Click the 'eye' icon in the top bar to enter Distraction-Free mode.
 
-This mode aims to help you concentrate on your writing by removing as much of the Wavemaker UI as practical.
+This mode aims to help you concentrate on your writing by removing as much of the Wavemaker UI as is practical.
 All that remains visible is the Writer formatting bar.
 
 While in Distraction-Free mode, your text is centred in the window and the background is changed to a darker colour.
-Both of these changes are intended to reduce eye-strain.
+Both of these changes are intended to reduce eye strain.
 
-As you type, the text automatically rises so that your cursor, and your current work, are at a comfortable eye-level.
+As you type, the text automatically rises so that your cursor, and your current work, are at a comfortable eye level.
 
 Exit Distraction-Free mode by clicking on the 'eye' icon again.
 
 [#cards]
-== image:../images/cards-database-icon.png[Cards database,36] Cards database
+== image:../images/cards-database-icon.png[Cards database,24] Cards database
 
 Cards are a powerful tool that allows pertinent text or visual details to be readily available when you need them.
 
 Cards tie many of Wavemaker's tools together.
 Cards can be created man different parts of Wavemaker (the <<#writer,Writer>> sidebar or the <<#grid-planner,Grid Planner>>, for example)
-All the cards you create will be stored in the
-in one part of the software () appear in other parts of the software (such as ).
+All the cards you create will be stored in the Cards database.
+Cards created in one part of the software can appear in other parts of the software.
 
 They can be coloured and tagged to assist with sorting and identification.
 
 The image below shows the new card interface:
 
-image::../images/new-card.png[New card,500]
+image::../images/new-card.png[New card,400]
 
 [#planning-boards]
-== image:../images/planning-board-icon.png[Planning boards,36] Planning boards
+== image:../images/planning-board-icon.png[Planning boards,24] Planning boards
 
 Planning boards allow you to create a grid of cards that may assist you with planning out the events in your novel.
 Each column in the grid corresponds to a section in your manuscript.
@@ -80,12 +79,12 @@ Likewise, you can create a Planning board full of detailed cards and Wavemaker w
 Each column in the board becomes linked to a section with the same title.
 Any notes in the column will be automatically attached to the sidebar of the corresponding section.
 
-From the Writer sidebar, you can use the pop-out button to open the grid planner in its own window, allowing you ease of reference without cluttering the Writer interface.
+From the Writer sidebar, you can use the pop-out button to open the grid planner in a new window, allowing you ease of reference without cluttering the Writer interface.
 
 [#mindmaps]
-== image:../images/mindmap-icon.png[Mindmaps,36] Mindmaps
+== image:../images/mindmap-icon.png[Mindmaps,24] Mindmaps
 
-The Mindmap tool helps you visualise how the various concepts in your novel connect with each other.
+The Mindmap tool helps you visualise how the various concepts in your novel interconnect.
 
 To create a new mindmap from the home page, select the _Your Mindmaps_ entry and then click the mindmap icon at the top right.
 
@@ -101,12 +100,12 @@ A line, in your selected style, will appear between the two nodes.
 Either of the linked nodes can now be moved freely around the mindmap space and the link will be maintained.
 
 Remove links by clicking on them.
-They will turn red on cursor hover and disappear when clicked.
+They will turn red if you hover your cursor over them and will disappear when clicked.
 
 Add concepts and ideas, images and explanations as you need and let the tool help you visualise how they relate to each other.
 
 [#snowflakes]
-== image:../images/snowflakes-icon.png[Snowflakes,36] Snowflakes
+== image:../images/snowflakes-icon.png[Snowflakes,24] Snowflakes
 
 The _Snowflake method_ was devised by an author by the name of https://www.ingermanson.com/[Randy Ingermanson].
 The snowflake method gradually adds details and complexity to a simple summary until a complete novel is formed.
@@ -123,19 +122,19 @@ Clicking the _stacked boxes_ icon will present you with the first snowflake expa
 Three more cards will appear stacked to the right of the original card.
 Clicking on the boxes icon again will remove the new cars.
 
-At this point the method requires you break your summary down into a beginning, middle and end (typing them into the appropriate boxes).
+At this point, the method requires you to break your summary down into a beginning, middle and end (typing them into the appropriate boxes).
 You can Tab key between the six new fields (title and body for each new card), from top to bottom.
 
 Once you have expanded your summary this way, you can click the arrows icon (which takes the place of the box icon).
-You will be prompted that this action will replace your original card with the three new ones.
+You will be prompted that this action will replace your original card with the new ones.
 Click OK or Cancel as you choose.
 
-If you click OK, your original summary card will disappear and your first level breakdown cards will be centred on the page and will each now have a _stacked boxes_ icon attached.
+If you click OK, your original summary card will disappear and your first-level breakdown cards will be centred on the page and will each now have a _stacked boxes_ icon attached.
 
 You can now repeat the process, expanding on each card as you can until you have a detailed synopsis of your novel.
 
 [#timelies]
-== image:../images/timelines-icon.png[Timelines,36] Timelines
+== image:../images/timelines-icon.png[Timelines,24] Timelines
 
 The timeline tool allows you to organise the events of your story around a vertical axis that represents the linear chronology.
 
@@ -157,13 +156,13 @@ This tool is connected to the Writer tool; click the export button at the top ri
 image::../images/timeline-export.png[Timeline export]
 
 [#grid-planner]
-== image:../images/grid-planner-icon.png[Grid planners,36] Grid planner
+== image:../images/grid-planner-icon.png[Grid planners,24] Grid planner
 
 The Grid Planner is another way to organise your thoughts when writing your manuscript.
 
 The tool lets you create a grid of ideas, images, reminders, events or anything else you might need.
 
-Use the buttons at the top right of the tool to create rows and columns as needed: image:../images/grid-add-rows-columns.png[Add rows and columns,36]
+Use the buttons at the top right of the tool to create rows and columns as needed: image:../images/grid-add-rows-columns.png[Add rows and columns,24]
 
 The axes on the grid can represent whatever you need them to.
 They are completely arbitrary.

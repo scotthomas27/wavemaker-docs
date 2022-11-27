@@ -3,9 +3,9 @@
 == Introduction
 
 Wavemaker is designed to be a convenient, cross-platform and full-featured novel writing software solution.
-It is, and will remain, free and open-source.
+It is and will remain, free and open-source.
 
-It can be installed locally and used offline or accessed via web interface in any browser on any operating system.
+It can be installed locally and used offline or accessed via a web interface in any browser on any operating system.
 
 It can sync your work to Google Drive or manuscripts can be exported and imported (allowing you to use any backup option you prefer).
 

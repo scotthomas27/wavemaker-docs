@@ -1,0 +1,67 @@
+:doctype: book
+:toc:
+:toclevels: 1
+
+= Accessing
+
+Wavemaker can be accessed in three ways.
+While the user interface and tools are identical across all three methods, there may be some functionality differences.
+Explore the benefits of each option below.
+
+== Web browser
+
+Wavemaker can be accessed in any web browser at www.wavemakercards.com.
+If you do not want to have to install anything and you will always be online when you use the software, this may be the best option for you.
+
+== Local webapp
+
+Wavemaker can be _installed_ on your computer as what is called a Progressive Web App (https://en.wikipedia.org/wiki/Progressive_web_app[PWA]).
+If you may not always have internet connectivity while writing but you will always be using the same computer, this might be the best option for you.
+
+== Snapshots
+
+NOTE: Need more information about how this version works.
+Is it simply a GitHub checkout, locally built/run?
+
+== Comparison table
+
+[%autowidth.stretch]
+|===
+| Feature ^|Web ^|PWA ^|Local
+
+|Browser agnostic
+^|Yes
+^|No
+^|Yes
+
+|OS integration
+^|None
+^|Automatic
+^|Manual
+
+|Offline access
+^|No
+^|Yes
+^|Yes
+
+|Computer agnostic
+^|Yes, if synced to Google Drive
+^|No
+^|No
+
+|Latest version
+^|Automatic
+^|Automatic, if Internet connected
+^|Manual
+
+|Developer maintained
+^|Yes
+^|Yes
+^|No
+
+|Remotely hosted
+^|Yes
+^|Yes
+^|No
+
+|===
