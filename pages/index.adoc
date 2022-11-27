@@ -14,7 +14,7 @@ Like Wavemaker itself, there is no _correct_ way to use this documentation.
 Read the sections that are relevant to your needs and ignore any that aren't.
 
 * xref:features.adoc[Features]
-* xref:installation.adoc[Installation]
+* xref:accessing.adoc[Accessing]
 * xref:getting-started.adoc[Getting started]
 * xref:navigation.adoc[Navigation]
 * xref:writing-your-manuscript.adoc[Writing your manuscript]
