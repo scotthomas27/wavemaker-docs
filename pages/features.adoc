@@ -16,11 +16,24 @@ While some of the writing tools listed below do work together, you may prefer to
 
 The Writer tool is the text editor/word processor built into Wavemaker.
 
-It includes *bold*, _italic_ and [.line-through]#strikethrough# text formatting.
-It supports inserting headings and subheadings, images, bulleted and numbered lists, and quotes.
-It also includes a link to the <<grid-planner,Grid Planner>> and a <<focus-mode,focus mode>>.
+At the top of the writing pane is a menu bar similar to that found in commercial word-processors:
 
 image::../images/writer-bar.png[Writer bar]
+
+From left to right, the icons on this bar are:
+
+* *Bold* text formatting.
+* _Italic_ text formatting.
+* [.line-through]#Strikethrough# text formatting.
+* Top-level heading.
+* Subheading.
+* Insert image.
+* Bulleted list.
+* Numbered list.
+* <<#planning-boards,Planning board>> link.
+* <<#typewriter-mode,Typewriter mode>>
+* <<#highlighter-mode,Highlighter mode>>
+* Exclude from the manuscript's word count.
 
 A sidebar to the left shows the sections (or chapters) of your manuscript.
 This sidebar is discussed in more detail in the xref:navigation.adoc[Navigation] section.
@@ -30,22 +43,44 @@ These cards are discussed below.
 
 Both sidebars can be pinned open for easy access or unpinned for a larger editing page.
 
-=== Distraction-Free mode
+[#typewriter-mode]
+=== image:../images/typewriter-icon.png[Typewriter mode,24] Typewriter mode
 
-NOTE: This content is based on Version 3 as the V4 Writer tool wasn't working when I wrote it.
-
-Distraction-Free mode is accessed through the Writer tool.
-Click the 'eye' icon in the top bar to enter Distraction-Free mode.
+Typewriter mode is accessed through the Writer tool.
+Click the 'typewriter' icon in the top bar to enter Typewriter mode.
 
 This mode aims to help you concentrate on your writing by removing as much of the Wavemaker UI as is practical.
 All that remains visible is the Writer formatting bar.
 
-While in Distraction-Free mode, your text is centred in the window and the background is changed to a darker colour.
-Both of these changes are intended to reduce eye strain.
+While in Typewriter mode, your text is centred in the window and the font is changed to a typewriter-like style.
 
 As you type, the text automatically rises so that your cursor, and your current work, are at a comfortable eye level.
+Lines are double-spaced automatically.
 
-Exit Distraction-Free mode by clicking on the 'eye' icon again.
+Exit Typewriter mode by clicking on the `x` icon in the top right.
+
+[#highlighter-mode]
+=== image:../images/highlighter-mode-icon.png[Typewriter mode,24] Highlighter mode
+
+Clicking the 'highlighter' icon in the Writer's main menu bar will reveal a palette of seven colours.
+
+You can click on a colour from this palette and any text you type will be highlighted in that colour.
+
+[NOTE]
+====
+@Iain: Some thoughts regarding the highlighter implementation:
+
+. There's no visual indicator on the palette to show which, if any, highlighter is currently in use.
+Sure, typing will reveal that, but that could require unnecessary keystrokes to see which highlighter is active.
+
+. The positioning of the colour palette often triggers the Cards sidebar if it is in 'hide' mode.
+
+. Unhighlighting requires carefully selecting the highlighted text and clicking the active colour button (see #1 above).
+If the selection is not perfect, not only will the text not be returned to normal, any additional text will become highlighted.
+Perhaps a 'white' colour option could be added, or just an 'unhighlight' button?
+====
+
+Alternatively, you can highlight existing text by selecting it and then clicking one of the highlight colours.
 
 [#cards]
 == image:../images/cards-database-icon.png[Cards database,24] Cards database
