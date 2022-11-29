@@ -18,22 +18,23 @@ The Writer tool is the text editor/word processor built into Wavemaker.
 
 At the top of the writing pane is a menu bar similar to that found in commercial word-processors:
 
-image::../images/writer-bar.png[Writer bar]
+image::../images/writer-bar.png[Writer bar,500]
 
 From left to right, the icons on this bar are:
 
-* *Bold* text formatting.
-* _Italic_ text formatting.
-* [.line-through]#Strikethrough# text formatting.
-* Top-level heading.
-* Subheading.
-* Insert image.
-* Bulleted list.
-* Numbered list.
-* <<#planning-boards,Planning board>> link.
-* <<#typewriter-mode,Typewriter mode>>
-* <<#highlighter-mode,Highlighter mode>>
-* Exclude from the manuscript's word count.
+. *Bold* text formatting.
+. _Italic_ text formatting.
+. [.line-through]#Strikethrough# text formatting.
+. [yellow-background]##This doesn't appear to do anything.##
+. Top-level heading.
+. Subheading.
+. Insert image.
+. Bulleted list.
+. Numbered list.
+. <<#planning-boards,Planning board>> link.
+. <<#typewriter-mode,Typewriter mode>>
+. <<#highlighter-mode,Highlighter mode>>
+. Exclude from the manuscript's word count.
 
 A sidebar to the left shows the sections (or chapters) of your manuscript.
 This sidebar is discussed in more detail in the xref:navigation.adoc[Navigation] section.
