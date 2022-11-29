@@ -152,22 +152,21 @@ To create a new snowflake from within Wavemaker, click the _Snowflake Tool_ icon
 
 To use the Snowflake tool, type a title and a short concept or summary into the blank card.
 Once you have the summary worded to your liking, click the _stacked boxes_ icon to the right of the card.
-You can also delete the card by clicking the _trashcan_ icon at the top right of the card.
+If you do not want the card anymore you can delete it by clicking the _trashcan_ icon at the top right.
 
-Clicking the _stacked boxes_ icon will present you with the first snowflake expansion of your concept.
-Three more cards will appear stacked to the right of the original card.
-Clicking on the boxes icon again will remove the new cars.
+Clicking the _stacked boxes_ icon will present three more cards, stacked to the right of the original card.
+Clicking on the _stacked boxes_ icon again will remove the new cards, leaving your original card untouched.
 
-At this point, the method requires you to break your summary down into a beginning, middle and end (typing them into the appropriate boxes).
-You can Tab key between the six new fields (title and body for each new card), from top to bottom.
+To move forward, break your summary down into a beginning, middle and end (typing them into the appropriate boxes).
 
 Once you have expanded your summary this way, you can click the arrows icon (which takes the place of the box icon).
-You will be prompted that this action will replace your original card with the new ones.
-Click OK or Cancel as you choose.
+You will be prompted that this action will replace your original card.
+Click [OK] or [Cancel] as you choose.
 
-If you click OK, your original summary card will disappear and your first-level breakdown cards will be centred on the page and will each now have a _stacked boxes_ icon attached.
+If you click [OK], your original card will disappear replaced by the three new cards.
+Each of these will now have a _stacked boxes_ icon attached.
 
-You can now repeat the process, expanding on each card as you can until you have a detailed synopsis of your novel.
+Repeat the process, expanding each card as you can, until you have a detailed synopsis of your novel.
 
 [#timelies]
 == image:../images/timelines-icon.png[Timelines,24] Timelines
