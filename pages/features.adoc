@@ -25,7 +25,7 @@ From left to right, the icons on this bar are:
 . *Bold* text formatting.
 . _Italic_ text formatting.
 . [.line-through]#Strikethrough# text formatting.
-. [yellow-background]##This doesn't appear to do anything.##
+. [.underline]##@Iain: This doesn't appear to do anything.##
 . Top-level heading.
 . Subheading.
 . Insert image.
