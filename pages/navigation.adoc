@@ -10,40 +10,19 @@
 
 = Navigation
 
-== I18n
+== Menu bar
 
-When you first access Wavemaker, you will see a drop-down menu pre-populated with a locale language code.
-Clicking on the down arrow on this menu will reveal the language options available in Wavemaker.
+At the top of every page in Wavemaker is the menu bar.
 
-The language options at the time of release are:
+image::../images/main-menu.png[Menu Bar]
 
-. English (en)
-. Deutsch (de)
-. Espanol (es)
-. Francaise (fr)
-. Cymraeg (cy)
+This bar is organised with links to writing tools on the left and project management tools on the right.
 
-== Landing page
+== Project home
 
-When you first access Wavemaker, be it a local installation or the web version, you'll be presented with a few options.
+Clicking onthe
 
-These options are:
 
-=== New project
-
-Select this option from the landing page to create a empty project.
-
-You will be presented with the following links:
-
-* *Help and Guides on how to use Wavemaker*.
-This option will bring you to this documentation.
-* *Your Manuscripts* This option will take you to a list of the link:Manuscripts[manuscripts] you have saved in Wavemaker.
-* *Your Mindmaps* This option will take you to a list of the link:Mindmaps[mindmaps] you have saved in Wavemaker.
-* *Your Snowflakes* This option will take you to a list of the link:Snowflakes[snowflakes] you have saved in Wavemaker.
-
-== Main Menu
-
-== Top bar
 
 == Sidebars
 

@@ -17,14 +17,8 @@ If you choose the first option, *New project*, you will be taken to the 'Project
 Here you can name your manuscript in the 'My Project Name' field.
 
 Below the Project name field is a series of links to the Wavemaker tools.
-These links operate exactly as the links in the top toolbar do.
 
 You can return to the Project Home screen at any time by clicking the 'Home' icon in the top bar.
-
-[sidebar]
-****
-@Iain; There's no link here to the Planning Board. Is that intentional?
-****
 
 == Load a file from Google Drive
 
@@ -50,6 +44,20 @@ Error 400: redirect_uri_mismatch
 If you have previously saved a file to your local computer, you can use this option to reload it into Wavemaker.
 
 The file must have the `.WM4` or `.wm4` file extension to be recognised by Wavemaker.
+
+== Choose a language
+
+Wavemaker is currently available in 7 languages:
+
+* Cymraeg (cy)
+* Deutch (de)
+* English (en)
+* Español (es)
+* Français (fr)
+* Português (pt)
+* Türkçe (tr)
+
+If you wish to help translate Wavemaker into another language, contact ...
 
 == Import a Wavemaker Version 3 file
 
@@ -85,8 +93,9 @@ NOTE: If you have multiple projects in Wavemaker 3 that you would like to import
 [sidebar]
 ****
 @Iain; I can't seem to get back to the welcome screen once I've imported a project unless I close that project (which clears it from the database).
+
 Therefore I cannot import more than one project at a time, regardless of if I import them from `.wm4` or `.wmdata` files.
 Is this intended or a bug?
 
-Also, some of the projects in my `.wmdata` file simply refuse to import. I click on them in the presented list and nothing happens. This seems to happen with older projects, although re-opening, re-saving, re-exporting and re-importing them from WM3 doesn't seem to make any difference.
+Also, some of the projects in my `.wmdata` file simply refuse to import. I click on them in the presented list and nothing happens. This seems to happen with older projects. Re-opening in WM3, re-saving, re-exporting and re-importing into WM4 doesn't seem to make any difference.
 ****
