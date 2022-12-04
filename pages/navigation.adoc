@@ -16,25 +16,141 @@ At the top of every page in Wavemaker is the menu bar.
 
 image::../images/main-menu.png[Menu Bar]
 
-This bar is organised with links to writing tools on the left and project management tools on the right.
+This bar is organised with links to writing tools to the left and software management tools to the right.
+
+.Writing tools
+
+. <<Wavemaker icon>>
+
+. <<Project home>>
+
+. <<My Books>>
+
+. <<My Planning Boards>>
+
+. <<My Mindmaps>>
+
+. <<My Snowflakes>>
+
+. <<My Timeline>>
+
+. <<My Grid Planners>>
+
+. <<My Cards>>
+
+.Software tools
+
+[start=10]
+. <<Settings>>
+
+. <<Save File>>
+
+. <<Google Drive>>
+
+. <<Close Project>>
+
+== Wavemaker icon
+
+[sidebar]
+****
+@Iain; This doesn't seem to do anything.
+****
 
 == Project home
 
-Clicking onthe
+Clicking on this icon will return you to the product home page.
+Beneath the title of your project, you will find many of the same links that are on the main menu bar.
 
+You can also use the Help button (image:../images/help-icon.png[Help,width=20,height=20]) to access this documentation.
 
+== My Books
 
-== Sidebars
+This button is a link to a list of the projects you currently have saved in Wavemaker.
 
-Within this sidebar you can create new sections by clicking on one of the two icons at the top of the sidebar.
-A new section can either be a _child_ (image:../images/new-child-section.png[New child,16]) or _sibling_ (image:../images/new-sibling-section.png[New sibling,16]) to the section currently open in the Writer.
-Child sections are nested below the parent section while sibling sections are on the same level.
+From this page, you can access or delete any project in the list or you can start a new project by using the 'New book' button: image:../images/new-book-icon.png[New book,width=20,height=20]
 
-You can reorder the sections by dragging the section icon to the desired location.
-You can also delete sections by clicking on the `x` icon that becomes visible to the right of any section when you hover your cursor over it.
+== My Planning Boards
 
-You can pin sidebars open with the pin icons at the top left and top right of the writer page.
+This button will take you to a list of all the planning boards you have saved for the current project.
 
-The left sidebar contains links to the various pages in your manuscript.
-The right sidebar is a Card manager.
-It allows you to create Cards for, or link existing Cards to, this page.
+[sidebar]
+****
+@Iain: Am I supposed to be able to close a planning board and return to the previous (list) screen, or is there only ever one planning board active within any given project?
+****
+
+== My Mindmaps
+
+This button will take you to a list of all the mindmaps you have saved for the current project.
+
+You can access or delete any mindmap from the list, or use the image:../images/new-mindmap-icon.png[New mindmap,width=20,height=20] icon to add a new mindmap.
+
+To create a new mindmap:
+
+. Click on the 'New mindmap' icon.
+
+. Enter a name for your mindmap.
+
+. Click the `+` icon below the name field to add the new map to your list of mindmaps.
+
+You can abort creating a new mindmap by clicking the 'New mindmap' icon again.
+
+== My Snowflakes
+
+This button will take you to a list of all the snowflakes you have saved for the current project.
+
+You can access or delete any snowflake from the list, or use the image:../images/new-snowflakes-icon.png[New snowflake,width=20,height=20] icon to add a new snowflake.
+
+To create a new snowflake:
+
+. Click on the 'New snowflake' icon.
+
+. Enter a name for your snowflake.
+
+. Click the `+` icon below the name field to add the new map to your list of snowflakes.
+
+You can abort creating a new snowflake by clicking the 'New snowflake' icon again.
+
+== My Timeline
+
+This button will take you to a list of all the timelines you have saved for the current project.
+
+You can access or delete any timeline from the list, or use the image:../images/new-timelines-icon.png[New timeline,width=20,height=20] icon to add a new timeline.
+
+To create a new timeline:
+
+. Click on the 'New timeline' icon.
+
+. Enter a name for your timeline.
+
+. Optionally, add a description for the timeline.
+
+. Click the `+` icon below the name field to add the new map to your list of timelines.
+
+You can abort creating a new timeline by clicking the 'New timeline' icon again.
+
+== My Grid Planners
+
+This button will take you to a list of all the grid planners you have saved for the current project.
+
+You can access or delete any grid planner from the list, or use the image:../images/new-grid-planner.png[New grid planner,width=20,height=20] icon to add a new grid planner.
+
+To create a new grid planner:
+
+. Click on the 'New grid planner' icon.
+
+. Enter a name for your grid planner.
+
+. Click the `+` icon below the name field to add the new map to your list of grid planners.
+
+You can abort creating a new grid planner by clicking the 'New grid planner' icon again.
+
+== My Cards
+
+== Settings
+
+== Save File
+
+== Google Drive
+
+== Close Project
+
