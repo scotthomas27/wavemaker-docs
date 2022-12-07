@@ -111,9 +111,15 @@ Cards created in one part of the software can appear in other parts of the softw
 
 They can be coloured and tagged to assist with sorting and identification.
 
-The image below shows the new card interface:
+The image below shows the card interface:
 
 image::../images/new-card.png[New card,400]
+
+[sidebar]
+****
+TODO: Put callouts on this image.
+****
+
 
 
 [#planning-boards]

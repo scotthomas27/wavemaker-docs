@@ -146,6 +146,19 @@ You can abort creating a new grid planner by clicking the 'New grid planner' ico
 
 == My Cards
 
+Clicking this icon will take you to the Cards database.
+Here you can see all the cards you have created for the manuscript you currently have open.
+
+image::../images/cards-interface.png[The Cards interface]
+
+. Click this icon to create a new card.
+
+. Use this box to search through your cards for keywords.
+
+. Use tags (added during card creation) to filter out cards you don't need.
+
+Read the xref:features.adoc#cards[Cards] section in the _Features_ chapter for an example of the card interface.
+
 == Settings
 
 == Save File
