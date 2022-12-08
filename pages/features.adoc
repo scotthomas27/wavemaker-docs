@@ -102,11 +102,12 @@ Perhaps a 'white' colour option could be added, or just an 'unhighlight' button?
 [#cards]
 == image:../images/cards-database-icon.png[Cards database,24] Cards database
 
-Cards are a powerful tool that allows pertinent text or visual details to be readily available when you need them.
+Cards are a powerful tool for saving and displaying pertinent text or visual details you need them.
 
 Cards tie many of Wavemaker's tools together.
-Cards can be created man different parts of Wavemaker (the <<#writer,Writer>> sidebar or the <<#grid-planner,Grid Planner>>, for example)
-All the cards you create will be stored in the Cards database.
+Cards can be created in different parts of Wavemaker (the <<#writer,Writer>> sidebar or the <<#grid-planner,Grid Planner>>, for example).
+
+All the cards you create will be stored in the  xref:navigation.adoc#my-cards[Cards database].
 Cards created in one part of the software can appear in other parts of the software.
 
 They can be coloured and tagged to assist with sorting and identification.

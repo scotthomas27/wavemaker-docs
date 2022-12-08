@@ -4,6 +4,7 @@
 
 = Navigation
 
+[#menu-bar]
 == Menu bar
 
 At the top of every page in Wavemaker is the menu bar.
@@ -43,6 +44,7 @@ This bar is organised with links to writing tools to the left and software manag
 
 . <<Close Project>>
 
+[#wm-icon]
 == Wavemaker icon
 
 [sidebar]
@@ -50,6 +52,7 @@ This bar is organised with links to writing tools to the left and software manag
 @Iain; This doesn't seem to do anything.
 ****
 
+[#project-home]
 == Project home
 
 Clicking on this icon will return you to the product home page.
@@ -138,6 +141,7 @@ To create a new grid planner:
 
 You can abort creating a new grid planner by clicking the 'New grid planner' icon again.
 
+[#my-cards]
 == My Cards
 
 Clicking this icon will take you to the Cards database.
