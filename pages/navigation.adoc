@@ -161,9 +161,67 @@ Read the xref:features.adoc#cards[Cards] section in the _Features_ chapter for a
 
 == Settings
 
+The Settings icon will open a dialogue box that contains many settings with which you can control your experience with Wavemaker.
+
+Review the image below to see the available options.
+
+image::../images/wm-settings.png[Settings box]
+
 == Save File
+
+This option will save the current project to your device.
+The file will be in a Wavemaker-unique `.wm4` file.
+The default naming convention for these files is the project name and the date and time of export in the following format:
+
+[source.copy]
+----
+Name-of-Project[YYYY-MM-DD-HH-MM-SS].wm4
+----
+
+You can, of course, rename this file (do not alter the file extension) and save it in a location of your choosing.
 
 == Google Drive
 
+If you have not used this option before, clicking this icon for the first time will open a dialogue box with a *pass:[[Login to Google Drive]]* button.
+
+Clicking this button will open a dedicated browser window for you to log into Google Drive (if you are not already logged-in) and authorise Wavemaker to make changes to your account.
+
+This permission is required to save files to Drive.
+
+[sidebar]
+****
+@Iain: I can't log into Google drive. I get the following error:
+
+[WARNING]
+====
+Access blocked: This app’s request
+is invalid
+
+pass:[*********@gmail.com]
+
+You can’t sign in because this app sent an invalid request. +
+You can try again later or contact the developer about this issue. +
+https://developers.google.com/identity/protocols/oauth2/javascript-implicit-flow#authorization-errors-origin-mismatch[Learn more about this error] +
+If you are a developer of this app, see error details. +
+`Error 400: redirect_uri_mismatch`
+====
+
+****
+
+Once this permission has been granted, Wavemaker can save your work, manually or automatically, to Google Drive.
+
+Files saved to Google Drive can be imported from the Welcome screen as discussed in the xref:getting-started.adoc[Getting started] chapter.
+
 == Close Project
 
+WARNING: *Potential data loss ahead! Please read the following carefully!*
+
+This icon will close your current project and clear the database.
+
+We strongly encourage you to have a backup of your project saved, either locally or in Google Drive, before using this option.
+
+You will be prompted for confirmation before anything is deleted:
+
+image::../images/close-project.png[Close Project warning]
+
+*This action can not be undone* and any data lost will not be recoverable unless you have a backup saved.

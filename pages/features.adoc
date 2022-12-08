@@ -86,7 +86,7 @@ You can click on a colour from this palette and any text you type will be highli
 Alternatively, you can highlight existing text by selecting it and then clicking one of the highlight colours.
 
 [sidebar]
-====
+****
 @Iain: Some thoughts regarding the highlighter implementation:
 
 . There's no visual indicator on the palette to show which, if any, highlighter is currently in use.
@@ -97,7 +97,7 @@ Sure, typing will reveal that, but that could require unnecessary keystrokes to 
 . Unhighlighting requires carefully selecting the highlighted text and clicking the active colour button (see #1 above).
 If the selection is not perfect, not only will the text not be returned to normal, any additional text will become highlighted.
 Perhaps a 'white' colour option could be added, or just an 'unhighlight' button?
-====
+****
 
 [#cards]
 == image:../images/cards-database-icon.png[Cards database,24] Cards database
