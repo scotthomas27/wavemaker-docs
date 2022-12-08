@@ -1,12 +1,6 @@
 :doctype: book
-
-* <<navigation,Navigation>>
- ** <<i18n,I18n>>
- ** <<landing-page,Landing page>>
-  *** <<new-project,New project>>
- ** <<main-menu,Main Menu>>
- ** <<top-bar,Top bar>>
- ** <<sidebars,Sidebars>>
+:toc:
+:toclevels: 1
 
 = Navigation
 
