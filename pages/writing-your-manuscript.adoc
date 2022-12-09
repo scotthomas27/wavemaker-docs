@@ -71,7 +71,24 @@ The image below shows the card interface:
 
 image::../images/new-card-interface.png[New card,400]
 
+. Choose a background colour for the card.
+This can be useful if you want a visual distinction between card types.
 
+. Close the card interface without saving the card.
+
+. Add a title to your card.
+
+. Select this option if you would like the content of the card visible without opening it.
+
+. The main (text) content of the card.
+
+. Add tags to your card to allow for filtering in the xref:navigation.adoc#cards-database[Cards database].
+
+. Add extra details to your card.
+
+. Add an image to your card.
+
+. Close the card, saving it to the xref:navigation.adoc#cards-database[Cards database].
 
 [#typewriter-mode]
 == Typewriter mode
