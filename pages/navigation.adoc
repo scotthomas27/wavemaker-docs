@@ -60,6 +60,7 @@ Beneath the title of your project, you will find many of the same links that are
 
 You can also use the Help button (image:../images/help-icon.png[Help,width=20,height=20]) to access this documentation.
 
+[#my-books]
 == My Books
 
 This button is a link to a list of the projects you currently have saved in Wavemaker.

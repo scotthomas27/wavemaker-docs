@@ -16,88 +16,21 @@ While some of the writing tools listed below do work together, you may prefer to
 
 The Writer tool is the text editor/word processor built into Wavemaker.
 
-At the top of the writing pane is a menu bar similar to that found in commercial word-processors:
-
-image::../images/writer-bar.png[Writer bar,500]
-
-From left to right, the icons on this bar are:
-
-. *Bold* text formatting.
-. _Italic_ text formatting.
-. [.line-through]#Strikethrough# text formatting.
-. [.underline]##@Iain: This doesn't appear to do anything.##
-. Top-level heading.
-. Subheading.
-. Insert image.
-. Bulleted list.
-. Numbered list.
-. <<#planning-boards,Planning board>> link.
-. <<#typewriter-mode,Typewriter mode>>
-. <<#highlighter-mode,Highlighter mode>>
-. Exclude from the manuscript's word count.
-
 A sidebar to the left shows the sections (or chapters) of your manuscript.
-This sidebar is discussed in more detail in the <<Sidebars>> section.
 
-A sidebar to the right of the page allows you to create reference <<cards,cards>> and attach them to the page you are working on.
-These cards are discussed below.
+A sidebar to the right of the page allows you to create reference xref:writing-your-manuscript.adoc#cards[Cards] and attach them to the page you are working on.
 
 Both sidebars can be pinned open for easy access or unpinned for a larger editing page.
 
 === Sidebars
 
-Within this sidebar you can create new sections by clicking on one of the two icons at the top of the sidebar.
-A new section can either be a _child_ (image:../images/new-child-section.png[New child,16]) or _sibling_ (image:../images/new-sibling-section.png[New sibling,16]) to the section currently open in the Writer.
-Child sections are nested below the parent section while sibling sections are on the same level.
+The sidebar on the left of the writing pane shows you the chapters of your manuscript.
+You can create new chapters by clicking on one of the two icons at the top of the sidebar.
 
-You can reorder the sections by dragging the section icon to the desired location.
-You can also delete sections by clicking on the `x` icon that becomes visible to the right of any section when you hover your cursor over it.
+The right sidebar is a xref:writing-your-manuscript.adoc#cards[Cards] manager.
+It allows you to create cards, or link existing cards, to this chapter.
 
-You can pin sidebars open with the pin icons at the top left and top right of the writer page.
-
-The left sidebar contains links to the various pages in your manuscript.
-The right sidebar is a Card manager.
-It allows you to create Cards for, or link existing Cards to, this page.
-
-
-[#typewriter-mode]
-=== image:../images/typewriter-icon.png[Typewriter mode,24] Typewriter mode
-
-Typewriter mode is accessed through the Writer tool.
-Click the 'typewriter' icon in the top bar to enter Typewriter mode.
-
-This mode aims to help you concentrate on your writing by removing as much of the Wavemaker UI as is practical.
-All that remains visible is the Writer formatting bar.
-
-While in Typewriter mode, your text is centred in the window and the font is changed to a typewriter-like style.
-
-As you type, the text automatically rises so that your cursor, and your current work, are at a comfortable eye level.
-Lines are double-spaced automatically.
-
-Exit Typewriter mode by clicking on the `x` icon in the top right.
-
-[#highlighter-mode]
-=== image:../images/highlighter-mode-icon.png[Typewriter mode,24] Highlighter mode
-
-Clicking the 'highlighter' icon in the Writer's main menu bar will reveal a palette of seven colours.
-
-You can click on a colour from this palette and any text you type will be highlighted in that colour.
-
-Alternatively, you can highlight existing text by selecting it and then clicking one of the highlight colours.
-
-[sidebar]
-****
-@Iain: Some thoughts regarding the highlighter implementation:
-
-. There's no visual indicator on the palette to show which, if any, highlighter is currently in use.
-Sure, typing will reveal that, but that could require unnecessary keystrokes to see which highlighter is active.
-
-. The positioning of the colour palette often triggers the Cards sidebar if it is in 'hide' mode.
-
-. Unhighlighting requires carefully selecting the highlighted text and clicking the active colour button (see #1 above).
-If the selection is not perfect, not only will the text not be returned to normal, any additional text will become highlighted.
-Perhaps a 'white' colour option could be added, or just an 'unhighlight' button?
-****
+You can pin sidebars open with the pin icons at the top left and top right of the writer pane.
 
 [#cards]
 == image:../images/cards-database-icon.png[Cards database,24] Cards database
@@ -106,21 +39,6 @@ Cards are a powerful tool for saving and displaying pertinent text or visual det
 
 Cards tie many of Wavemaker's tools together.
 Cards can be created in different parts of Wavemaker (the <<#writer,Writer>> sidebar or the <<#grid-planner,Grid Planner>>, for example).
-
-All the cards you create will be stored in the  xref:navigation.adoc#my-cards[Cards database].
-Cards created in one part of the software can appear in other parts of the software.
-
-They can be coloured and tagged to assist with sorting and identification.
-
-The image below shows the card interface:
-
-image::../images/new-card.png[New card,400]
-
-[sidebar]
-****
-TODO: Put callouts on this image.
-****
-
 
 
 [#planning-boards]
