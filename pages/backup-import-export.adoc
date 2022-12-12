@@ -12,14 +12,14 @@
 See the note in xref:navigation.adoc#google-drive[]
 ****
 
-Wavemaker has built-in support for Google Drive backups.
+Wavemaker has native support for Google Drive backups.
 There are three ways you can use Google Drive to keep your work backed up and secure:
 
-. Set Wavemaker to automatically save your work to Drive as you write.
-You will see a prompt for this feature each time you load Wavemaker.
+. Set Wavemaker to automatically sync your work to Drive as you write.
+You will be prompted to enable this feature each time you load Wavemaker.
 
-. You can manually upload your work whenever you choose.
-Use the Google Drive icon in the menu bar (image:../images/google-drive-icon.png[Google Drive,width=20,height=20]) to initiate a back up.
+. You can manually sync to Google Drive whenever you choose.
+Use the Google Drive icon in the menu bar (image:../images/google-drive-icon.png[Google Drive,width=20,height=20]) to initiate a backup.
 
 . Use the <<Export to file>> instructions below to export your work, then save that file in a location backed up by Google Drive.
 
