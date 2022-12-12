@@ -1,14 +1,27 @@
 :doctype: book
-
-* <<backup-import-and-export,Backup, import and export>>
- ** <<backup-to-google-drive,Backup to Google Drive>>
- ** <<import-from-google-drive,Import from Google Drive>>
- ** <<export-to-file,Export to file>>
- ** <<import-from-file,Import from file>>
+:toc:
+:toclevels: 1
 
 = Backup, import and export
 
 == Backup to Google Drive
+
+[sidebar]
+****
+@Iain: None of the following has been tested as I get an error when trying to connect my Google Drive account.
+See the note in xref:navigation.adoc#google-drive[]
+****
+
+Wavemaker has built-in support for Google Drive backups.
+There are three ways you can use Google Drive to keep your work backed up and secure:
+
+. Set Wavemaker to automatically save your work to Drive as you write.
+You will see a prompt for this feature each time you load Wavemaker.
+
+. You can manually upload your work whenever you choose.
+Use the Google Drive icon in the menu bar (image:../images/google-drive-icon.png[Google Drive,width=20,height=20]) to initiate a back up.
+
+. Use the <<Export to file>> instructions below to export your work, then save that file in a location backed up by Google Drive.
 
 == Import from Google Drive
 

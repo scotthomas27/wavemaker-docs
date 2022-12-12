@@ -179,6 +179,7 @@ Name-of-Project[YYYY-MM-DD-HH-MM-SS].wm4
 
 You can, of course, rename this file (do not alter the file extension) and save it in a location of your choosing.
 
+[#google-drive]
 == Google Drive
 
 If you have not used this option before, clicking this icon for the first time will open a dialogue box with a *pass:[[Login to Google Drive]]* button.
@@ -208,6 +209,8 @@ If you are a developer of this app, see error details. +
 ****
 
 Once this permission has been granted, Wavemaker can save your work, manually or automatically, to Google Drive.
+
+Read the information in the xref:backup-import-export.adoc[Backup, import and export] chapter.
 
 Files saved to Google Drive can be imported from the Welcome screen as discussed in the xref:getting-started.adoc[Getting started] chapter.
 
