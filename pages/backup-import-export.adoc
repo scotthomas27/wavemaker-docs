@@ -32,7 +32,7 @@ Use the Google Drive icon in the menu bar (image:../images/google-drive-icon.png
 
 include::getting-started.adoc[tag=import-from-drive]
 
-== Save file
+== Export to file
 
 include::navigation.adoc[tag=export-to-device]
 
