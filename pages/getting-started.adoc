@@ -22,6 +22,7 @@ You can return to the Project Home screen at any time by clicking the 'Home' ico
 
 == Load a file from Google Drive
 
+// tag::import-from-drive[]
 If you have previously saved a Wavemaker 4 project in Google Drive, you can use this option to reload that project file into Wavemaker.
 
 The file must have the `.WM4` or `.wm4` file extension to be recognised by Wavemaker.
@@ -38,12 +39,15 @@ If you are a developer of this app, see error details.
 Error 400: redirect_uri_mismatch
 ----
 ****
+// end::import-from-drive[]
 
 == Load a file from your device
 
+// tag::import-from-device[]
 If you have previously saved a file to your local computer, you can use this option to reload it into Wavemaker.
 
 The file must have the `.WM4` or `.wm4` file extension to be recognised by Wavemaker.
+// end::import-from-device[]
 
 == Choose a language
 
@@ -61,7 +65,8 @@ If you wish to help translate Wavemaker into another language, contact ...
 
 == Import a Wavemaker Version 3 file
 
-If you are migrating from Wavemaker Verson 3, you can use this one-time conversion tool to import a locally-saved Wavemaker 3 database into Wavemaker 4.
+// tag::import-wm-v3[]
+If you are migrating from Wavemaker Version 3, you can use this one-time conversion tool to import a locally-saved Wavemaker 3 database into Wavemaker 4.
 
 .To create a Wavemaker 3 database file:
 
@@ -99,3 +104,4 @@ Is this intended or a bug?
 
 Also, some of the projects in my `.wmdata` file simply refuse to import. I click on them in the presented list and nothing happens. This seems to happen with older projects. Re-opening in WM3, re-saving, re-exporting and re-importing into WM4 doesn't seem to make any difference.
 ****
+// end::import-wm-v3[]

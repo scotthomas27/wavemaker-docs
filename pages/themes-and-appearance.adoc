@@ -1,5 +1,22 @@
 :doctype: book
-
-* <<themes-and-appearance,Themes and appearance>>
+:toc:
+:toclevels: 1
 
 = Themes and appearance
+
+You can control how Wavemaker looks by either choosing a pre-configured theme, or creating one of your own.
+
+NOTE: You will need some intermediate-level knowledge of CSS to create a custom theme.
+
+To create a new theme:
+
+. Insert
+
+. Steps
+
+. Here.
+
+[sidebar]
+****
+@Iain: I'm gonna need some input here on how to do this.
+****
