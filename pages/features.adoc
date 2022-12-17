@@ -1,6 +1,7 @@
 :doctype: book
 :toc:
 :toclevels: 1
+:toc-title!:
 
 = Features
 
