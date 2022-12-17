@@ -51,3 +51,7 @@ If you wish to help translate Wavemaker into another language, read the informat
 You can also convert and import a manuscript exported from Wavemaker 3.
 
 Follow the instructions in the xref:backuo-import-export.adoc#import-from-wm3[Import a Wavemaker Version 3 file] section.
+
+'''
+
+xref:index.adoc[Home].

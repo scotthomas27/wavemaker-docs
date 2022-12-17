@@ -128,3 +128,7 @@ Sure, typing will reveal that, but that could require unnecessary keystrokes to 
 If the selection is not perfect, not only will the text not be returned to normal, any additional text will become highlighted.
 Perhaps a 'white' colour option could be added, or just an 'unhighlight' button?
 ****
+
+'''
+
+xref:index.adoc[Home].

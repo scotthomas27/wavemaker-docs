@@ -193,3 +193,7 @@ You will be prompted for confirmation before anything is deleted:
 image::../images/close-project.png[Close Project warning]
 
 *This action can not be undone* and any data lost will not be recoverable unless you have a backup saved.
+
+'''
+
+xref:index.adoc[Home].

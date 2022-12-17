@@ -150,3 +150,8 @@ image::../images/grid-planner-tool.png[The Grid Planner]
 
 To populate the cells in the grid, click on the icon in the centre and choose to either create a new card or link an existing card.
 These cards will be added to the <<Cards>> database along with any other cards you have created in other tools within the software.
+
+
+'''
+
+xref:index.adoc[Home].

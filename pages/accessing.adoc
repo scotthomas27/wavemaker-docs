@@ -65,3 +65,7 @@ Is it simply a GitHub checkout, locally built/run?
 ^|No
 
 |===
+
+'''
+
+xref:index.adoc[Home].

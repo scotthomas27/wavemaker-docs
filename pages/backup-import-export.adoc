@@ -126,3 +126,7 @@ This option, found on the main page of your manuscript, will export a `.doc` ver
 image::../images/manuscript-main-page.png[Manuscript main page]
 
 After clicking this button you will be prompted to name your exported file (be careful not to overwrite the `.doc` extension) and choose where on your local device to save it.
+
+'''
+
+xref:index.adoc[Home].

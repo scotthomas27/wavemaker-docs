@@ -20,3 +20,7 @@ To create a new theme:
 ****
 @Iain: I'm gonna need some input here on how to do this.
 ****
+
+'''
+
+xref:index.adoc[Home].

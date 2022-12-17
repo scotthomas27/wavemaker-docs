@@ -45,3 +45,7 @@ If you want to add a language you can:
 . Email it to cards@wavemaker.co.uk
 
 Alternatively, contact Iain at the above email address and he will endeavour to add a Google-translated version.
+
+'''
+
+xref:index.adoc[Home].
