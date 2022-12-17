@@ -168,53 +168,17 @@ image::../images/wm-settings.png[Settings box]
 
 == Save File
 
-// tag::export-to-device[]
-Click the image:../images/save-file.png[Save file,width=20,height=20] icon save the current project to your device.
-The file will be in a Wavemaker-unique `.wm4` file.
-The default naming convention for these files is the project name and the date and time of export in the following format:
+Click this icon to save your manuscript locally (in a `.wm4` file format).
 
-[source.copy]
-----
-Name-of-Project[YYYY-MM-DD-HH-MM-SS].wm4
-----
-
-You can, of course, rename this file (do not alter the file extension) and save it in a location of your choosing.
-// end::export-to-device[]
+Read more in the xref:backup-import-export.adoc#export-to-file[Export to file] section.
 
 [#google-drive]
 == Google Drive
 
-If you have not used this option before, clicking the image:../images/google-drive-icon.png[Google Drive,width=20,height=20] icon for the first time will open a dialogue box with a *pass:[[Login to Google Drive]]* button.
+Click this icon to back-up your manuscript to Google Drive.
 
-Clicking this button will open a dedicated browser window for you to log into Google Drive (if you are not already logged-in) and authorise Wavemaker to make changes to your account.
+Read more in the xref:backup-import-export.adoc#backup-to-drive[Backup to Drive] section.
 
-This permission is required to save files to Drive.
-
-[sidebar]
-****
-@Iain: I can't log into Google drive. I get the following error:
-
-[WARNING]
-====
-Access blocked: This app’s request
-is invalid
-
-pass:[*********@gmail.com]
-
-You can’t sign in because this app sent an invalid request. +
-You can try again later or contact the developer about this issue. +
-https://developers.google.com/identity/protocols/oauth2/javascript-implicit-flow#authorization-errors-origin-mismatch[Learn more about this error] +
-If you are a developer of this app, see error details. +
-`Error 400: redirect_uri_mismatch`
-====
-
-****
-
-Once this permission has been granted, Wavemaker can save your work, manually or automatically, to Google Drive.
-
-Read the information in the xref:backup-import-export.adoc[Backup, import and export] chapter.
-
-Files saved to Google Drive can be imported from the Welcome screen as discussed in the xref:getting-started.adoc[Getting started] chapter.
 
 == Close Project
 

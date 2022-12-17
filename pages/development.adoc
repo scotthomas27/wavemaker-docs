@@ -5,4 +5,43 @@ Wavemaker is developed by https://github.com/mayasky76[Iain Wood].
 The https://github.com/wavemakercards[project] has had multiple release iterations since it began in 2016.
 The latest release is link:wavemakercards.com[Version 4].
 
-If you would like to be involved with the project, reach out to ...
+== Support
+
+You can help support Wavemaker by becoming a member of the Wavemaker https://www.patreon.com/wavemakercards[Patreon] group or donating through https://www.paypal.com/paypalme/wavemakercards[PayPal].
+
+== Community
+
+Wavemaker has an active community.
+You can find other Wavemaker users, and the development team, active in these online locations:
+
+* https://www.reddit.com/r/wavemakercards[Reddit]
+
+* Discord?
+
+* https://www.facebook.com/search/top?q=wavemaker%20novel%20planning%20and%20writing%20software[Facebook]
+
+== Contribution
+
+If you would like to be involved with the project, email Iain Wood; cards@wavemaker.co.uk.
+
+== Translation
+
+If you speak one of the languages into which Wavemaker is translated and wish to contribute a correction, do the following:
+
+. Download the relevant language file from this link: https://github.com/wavemakercards/wavemaker-cards-v4/tree/main/src/languages
+
+. Edit the file to include your fix.
+
+. Send the corrected file to cards@wavemaker.co.uk, with clear information about what you fixed.
+
+Alternatively, if you are a GitHub user, you can fork the project and submit a pull request.
+
+If you want to add a language you can:
+
+. Download the English language file.
+
+. Edit it with the language of your choice.
+
+. Email it to cards@wavemaker.co.uk
+
+Alternatively, contact Iain at the above email address and he will endeavour to add a Google-translated version.
