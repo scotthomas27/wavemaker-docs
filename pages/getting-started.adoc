@@ -9,17 +9,15 @@ When you load Wavemaker 4 for the first time, you will see a welcome screen that
 
 image::../images/welcome-screen.png[Welcome screen]
 
-The documentation in this section will discuss these options in more detail.
-
 == Creating a new project
 
-If you choose the first option, *New project*, you will be taken to the 'Project Home' screen.
+If you choose the first option, *New project*, you will be taken to the _Project Home_ screen.
 
-Here you can name your manuscript in the 'My Project Name' field.
+Here you can name your manuscript in the `My Project Name` field.
 
-Below the Project name field is a series of links to the Wavemaker tools.
+Below the project name field is a series of links to the Wavemaker tools.
 
-You can return to the Project Home screen at any time by clicking the 'Home' icon in the top bar.
+You can return to the _Project Home_ screen at any time by clicking the _Home_ icon in the top bar.
 
 == Load a file from Google Drive
 

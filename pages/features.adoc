@@ -49,8 +49,15 @@ Planning boards allow you to create a grid of cards that may assist you with pla
 Each column in the grid corresponds to a section in your manuscript.
 The cells in each column are the cards attached to that section.
 
-To create a new board from the home page, click on the _Planning boards_ entry and then click on the document icon at the top right.
-To create a new board from within Wavemaker, click the  _Planning boards_ icon in the top bar.
+To create a new board from the home page:
+
+. Click on the _Planning boards_ entry.
+
+. Click on the document icon at the top right.
+
+To create a new board from within Wavemaker:
+
+. Click the  _Planning boards_ icon in the top bar.
 
 The board works in conjunction with the writer; you can create cards in the Writer sidebar that will automatically populate a corresponding column in the associated planning board.
 
@@ -65,16 +72,32 @@ From the Writer sidebar, you can use the pop-out button to open the grid planner
 
 The Mindmap tool helps you visualise how the various concepts in your novel interconnect.
 
-To create a new mindmap from the home page, select the _Your Mindmaps_ entry and then click the mindmap icon at the top right.
+To create a new mindmap from the home page:
 
-To create a new mindmap from within Wavemaker, click the _Mindmaps Tool_ icon in the top bar.
+. Select the _Your Mindmaps_ entry.
+
+. Click the mindmap icon at the top right.
+
+To create a new mindmap from within Wavemaker:
+
+. Click the _Mindmaps Tool_ icon in the top bar.
 
 Once in a mindmap, use the icons to the top left to create new nodes, either image or text, and the style of link between them.
 
-To move a node around within the mindmap, select it and drag using the directional icon at the right of the node.
+To move a node around within the mindmap:
 
-To link two nodes together, select one of the nodes you want to link and then click on the _chain_ icon at the bottom right of the node.
-Do the same to the other node you want to link.
+. Select the node.
+
+. Drag it using the directional icon at the right of the node.
+
+To link two nodes together:
+
+. Select one of the nodes you want to link.
+
+. Click on the _chain_ icon at the bottom right of the node.
+
+. Do the same to the other node you want to link.
+
 A line, in your selected style, will appear between the two nodes.
 Either of the linked nodes can now be moved freely around the mindmap space and the link will be maintained.
 
@@ -89,27 +112,37 @@ Add concepts and ideas, images and explanations as you need and let the tool hel
 The _Snowflake method_ was devised by an author by the name of https://www.ingermanson.com/[Randy Ingermanson].
 The snowflake method gradually adds details and complexity to a simple summary until a complete novel is formed.
 
-To create a new snowflake from the home page, select the _Your Snowflakes_ entry and then click the snowflake icon at the top right.
+To create a new snowflake from the home page:
 
-To create a new snowflake from within Wavemaker, click the _Snowflake Tool_ icon in the top bar.
+. Select the _Your Snowflakes_ entry.
 
-To use the Snowflake tool, type a title and a short concept or summary into the blank card.
-Once you have the summary worded to your liking, click the _stacked boxes_ icon to the right of the card.
-If you do not want the card anymore you can delete it by clicking the _trashcan_ icon at the top right.
+. Click the snowflake icon at the top right.
 
-Clicking the _stacked boxes_ icon will present three more cards, stacked to the right of the original card.
+To create a new snowflake from within Wavemaker:
+
+. Click the _Snowflake Tool_ icon in the top bar.
+
+To use the Snowflake tool:
+
+. Type a title and a short concept or summary into the blank card.
+
+. Click the _stacked boxes_ icon to the right of the card.
+This will present three more cards, stacked to the right of the original card.
 Clicking on the _stacked boxes_ icon again will remove the new cards, leaving your original card untouched.
 
-To move forward, break your summary down into a beginning, middle and end (typing them into the appropriate boxes).
+. Type your story's beginning, middle and end into the appropriate boxes.
 
-Once you have expanded your summary this way, you can click the arrows icon (which takes the place of the box icon).
+. Click the _arrows_ icon (which takes the place of the box icon).
 You will be prompted that this action will replace your original card.
-Click [OK] or [Cancel] as you choose.
+
+. Click [OK] or [Cancel] as you choose.
 
 If you click [OK], your original card will disappear replaced by the three new cards.
 Each of these will now have a _stacked boxes_ icon attached.
 
 Repeat the process, expanding each card as you can, until you have a detailed synopsis of your novel.
+
+If you do not want a card anymore you can delete it by clicking the _trashcan_ icon at the top right.
 
 [#timelies]
 == image:../images/timelines-icon.png[Timelines,24] Timelines
