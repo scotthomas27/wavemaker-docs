@@ -196,4 +196,4 @@ image::../images/close-project.png[Close Project warning]
 
 '''
 
-xref:index.adoc[Home].
+xref:index.adoc[Home]

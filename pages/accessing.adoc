@@ -68,4 +68,4 @@ Is it simply a GitHub checkout, locally built/run?
 
 '''
 
-xref:index.adoc[Home].
+xref:index.adoc[Home]
