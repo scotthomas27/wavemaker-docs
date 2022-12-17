@@ -48,4 +48,4 @@ Alternatively, contact Iain at the above email address and he will endeavour to 
 
 '''
 
-xref:index.adoc[Home]
+xref:../index.adoc[Home]

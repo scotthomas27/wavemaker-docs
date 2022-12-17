@@ -12,11 +12,13 @@ Explore the benefits of each option below.
 == Web browser
 
 Wavemaker can be accessed in any web browser at www.wavemakercards.com.
+
 If you do not want to have to install anything and you will always be online when you use the software, this may be the best option for you.
 
 == Local webapp
 
-Wavemaker can be _installed_ on your computer as what is called a Progressive Web App (https://en.wikipedia.org/wiki/Progressive_web_app[PWA]).
+Wavemaker can be installed on your computer as what is called a Progressive Web App (https://en.wikipedia.org/wiki/Progressive_web_app[PWA]).
+
 If you may not always have internet connectivity while writing but you will always be using the same computer, this might be the best option for you.
 
 == Snapshots
@@ -69,4 +71,4 @@ Is it simply a GitHub checkout, locally built/run?
 
 '''
 
-xref:index.adoc[Home]
+xref:../index.adoc[Home]

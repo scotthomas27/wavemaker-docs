@@ -130,4 +130,4 @@ After clicking this button you will be prompted to name your exported file (be c
 
 '''
 
-xref:index.adoc[Home]
+xref:../index.adoc[Home]

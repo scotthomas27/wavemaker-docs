@@ -132,4 +132,4 @@ Perhaps a 'white' colour option could be added, or just an 'unhighlight' button?
 
 '''
 
-xref:index.adoc[Home]
+xref:../index.adoc[Home]

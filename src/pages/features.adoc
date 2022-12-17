@@ -188,4 +188,4 @@ These cards will be added to the <<Cards>> database along with any other cards y
 
 '''
 
-xref:index.adoc[Home]
+xref:../index.adoc[Home]
