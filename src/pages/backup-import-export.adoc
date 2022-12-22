@@ -2,13 +2,14 @@
 :toc:
 :toclevels: 1
 :toc-title!:
+:imagesdir: ../images
 
 = Backup, import and export
 
 [#backup-to-drive]
 == Backup to Google Drive
 
-If you have not used this option before, clicking the image:../images/google-drive-icon.png[Google Drive,width=20,height=20] icon for the first time will open a dialogue box with a *pass:[[Login to Google Drive]]* button.
+If you have not used this option before, clicking the image:google-drive-icon.png[Google Drive,width=20,height=20] icon for the first time will open a dialogue box with a *pass:[[Login to Google Drive]]* button.
 
 Clicking this button will open a dedicated browser window for you to log into Google Drive (if you are not already logged in) and authorise Wavemaker to make changes to your account.
 
@@ -46,7 +47,7 @@ You will be prompted to enable this feature each time you load Wavemaker.
 ****
 
 . You can manually sync to Google Drive whenever you choose.
-Use the Google Drive icon in the menu bar (image:../images/google-drive-icon.png[Google Drive,width=20,height=20]) to initiate a backup.
+Use the Google Drive icon in the menu bar (image:google-drive-icon.png[Google Drive,width=20,height=20]) to initiate a backup.
 
 . Use the <<Export to file>> instructions below to export your work, then save that file in a location backed up by Google Drive.
 
@@ -60,7 +61,7 @@ The file must have the `.WM4` or `.wm4` file extension to be recognised by Wavem
 [#export-to-file]
 == Export to file
 
-Click the image:../images/save-file.png[Save file,width=20,height=20] icon to save the current project to your device.
+Click the image:save-file.png[Save file,width=20,height=20] icon to save the current project to your device.
 The file will be in a Wavemaker-unique `.wm4` file.
 The default naming convention for these files is the project name and the date and time of export in the following format:
 
@@ -91,7 +92,7 @@ If you are migrating from Wavemaker Version 3, you can use this one-time convers
 
 . Under the 'Manage Your Projects' heading, click the green 'Download Database' button beside the 'Full Database Backup' option:
 +
-image::../images/manage-your-projects.png[Manage Your Projects screen]
+image::manage-your-projects.png[Manage Your Projects screen]
 
 . In the download window, choose location and a name for your backup.
 By default the name is `wavemaker-<HH-MM-DD-MM-YYYY>.wmdata` (where `HH-MM-DD-MM-YYYY` represents the time and date of the export).
@@ -124,7 +125,7 @@ Also, some of the projects in my `.wmdata` file simply refuse to import. I click
 
 This option, found on the main page of your manuscript, will export a `.doc` version of your work.
 
-image::../images/manuscript-main-page.png[Manuscript main page]
+image::manuscript-main-page.png[Manuscript main page]
 
 After clicking this button you will be prompted to name your exported file (be careful not to overwrite the `.doc` extension) and choose where on your local device to save it.
 

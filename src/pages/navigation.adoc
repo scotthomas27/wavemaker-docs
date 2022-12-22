@@ -2,6 +2,7 @@
 :toc:
 :toclevels: 1
 :toc-title!:
+:imagesdir: ../images
 
 = Navigation
 
@@ -10,7 +11,7 @@
 
 At the top of every page in Wavemaker is the menu bar.
 
-image::../images/main-menu.png[Menu Bar]
+image::main-menu.png[Menu Bar]
 
 This bar is organised with links to writing tools to the left and software management tools to the right.
 
@@ -59,14 +60,14 @@ This bar is organised with links to writing tools to the left and software manag
 Clicking on this icon will return you to the product home page.
 Beneath the title of your project, you will find many of the same links that are on the main menu bar.
 
-You can also use the Help button (image:../images/help-icon.png[Help,width=20,height=20]) to access this documentation.
+You can also use the Help button (image:help-icon.png[Help,width=20,height=20]) to access this documentation.
 
 [#my-books]
 == My Books
 
 This button is a link to a list of the projects you currently have saved in Wavemaker.
 
-From this page, you can access or delete any project in the list or you can start a new project by using the 'New book' button: image:../images/new-book-icon.png[New book,width=20,height=20]
+From this page, you can access or delete any project in the list or you can start a new project by using the 'New book' button: image:new-book-icon.png[New book,width=20,height=20]
 
 == My Planning Boards
 
@@ -81,7 +82,7 @@ This button will take you to a list of all the planning boards you have saved fo
 
 This button will take you to a list of all the mindmaps you have saved for the current project.
 
-You can access or delete any mindmap from the list, or use the image:../images/new-mindmap-icon.png[New mindmap,width=20,height=20] icon to add a new mindmap.
+You can access or delete any mindmap from the list, or use the image:new-mindmap-icon.png[New mindmap,width=20,height=20] icon to add a new mindmap.
 
 To create a new mindmap:
 
@@ -97,7 +98,7 @@ You can abort creating a new mindmap by clicking the 'New mindmap' icon again.
 
 This button will take you to a list of all the snowflakes you have saved for the current project.
 
-You can access or delete any snowflake from the list, or use the image:../images/new-snowflakes-icon.png[New snowflake,width=20,height=20] icon to add a new snowflake.
+You can access or delete any snowflake from the list, or use the image:new-snowflakes-icon.png[New snowflake,width=20,height=20] icon to add a new snowflake.
 
 To create a new snowflake:
 
@@ -113,7 +114,7 @@ You can abort creating a new snowflake by clicking the 'New snowflake' icon agai
 
 This button will take you to a list of all the timelines you have saved for the current project.
 
-You can access or delete any timeline from the list, or use the image:../images/new-timelines-icon.png[New timeline,width=20,height=20] icon to add a new timeline.
+You can access or delete any timeline from the list, or use the image:new-timelines-icon.png[New timeline,width=20,height=20] icon to add a new timeline.
 
 To create a new timeline:
 
@@ -131,7 +132,7 @@ You can abort creating a new timeline by clicking the 'New timeline' icon again.
 
 This button will take you to a list of all the grid planners you have saved for the current project.
 
-You can access or delete any grid planner from the list, or use the image:../images/new-grid-planner.png[New grid planner,width=20,height=20] icon to add a new grid planner.
+You can access or delete any grid planner from the list, or use the image:new-grid-planner.png[New grid planner,width=20,height=20] icon to add a new grid planner.
 
 To create a new grid planner:
 
@@ -149,7 +150,7 @@ You can abort creating a new grid planner by clicking the 'New grid planner' ico
 Clicking this icon will take you to the Cards database.
 Here you can see all the cards you have created for the manuscript you currently have open.
 
-image::../images/cards-interface.png[The Cards interface]
+image::cards-interface.png[The Cards interface]
 
 . Click this icon to create a new card.
 
@@ -161,11 +162,11 @@ Read the xref:features.adoc#cards[Cards] section in the _Features_ chapter for a
 
 == Settings
 
-Click the image:../images/settings-icon.png[Settings icon,width=20,height=20] to open a dialogue box that contains many settings with which you can control your experience with Wavemaker.
+Click the image:settings-icon.png[Settings icon,width=20,height=20] to open a dialogue box that contains many settings with which you can control your experience with Wavemaker.
 
 Review the image below to see the available options.
 
-image::../images/wm-settings.png[Settings box]
+image::wm-settings.png[Settings box]
 
 == Save File
 
@@ -191,7 +192,7 @@ We strongly encourage you to have a backup of your project saved, either locally
 
 You will be prompted for confirmation before anything is deleted:
 
-image::../images/close-project.png[Close Project warning]
+image::close-project.png[Close Project warning]
 
 *This action can not be undone* and any data lost will not be recoverable unless you have a backup saved.
 

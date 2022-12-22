@@ -2,12 +2,13 @@
 :toc:
 :toclevels: 1
 :toc-title!:
+:imagesdir: ../images
 
 = Getting started
 
 When you load Wavemaker 4 for the first time, you will see a welcome screen that presents you with your options:
 
-image::../images/welcome-screen.png[Welcome screen]
+image::welcome-screen.png[Welcome screen]
 
 == Creating a new project
 

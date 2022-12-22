@@ -2,6 +2,7 @@
 :toc:
 :toclevels: 1
 :toc-title!:
+:imagesdir:../images
 
 = Writing your manuscript
 
@@ -11,7 +12,7 @@ The following sections will cover how to use Wavemaker to actually write your ma
 
 You can create new sections/chapters in your manuscript using the sidebar on the left of the writing pane.
 
-At the top of this sidebar you will find two buttons: image:../images/new-folder-icon.png[New folder,width=20,height=20] and image:../images/new-chapter-icon.png[New chapter,width=20,height=20].
+At the top of this sidebar you will find two buttons: image:new-folder-icon.png[New folder,width=20,height=20] and image:new-chapter-icon.png[New chapter,width=20,height=20].
 Click on either of these icons to create the structure you want for your manuscript.
 Each chapter and folder can be named as needed to ensure you know what it contains.
 
@@ -25,14 +26,14 @@ Add a folder by clicking the appropriate icon from the top of the bar.
 
 The copy (text) that makes up your manuscript is typed into the xref:features.adoc#writer[Writer tool].
 
-Access the writer tool directly by using the *My Books* icon (image:../images/manuscript-icon.png[My Books,width=20,height=20]) from the main menu bar.
-Alternatively, you can access it from the *Project Home* page using the image:../images/project-home-icon.png[Product home,width=20,height=20] icon and selecting *My Books* from the tools list.
+Access the writer tool directly by using the *My Books* icon (image:manuscript-icon.png[My Books,width=20,height=20]) from the main menu bar.
+Alternatively, you can access it from the *Project Home* page using the image:project-home-icon.png[Product home,width=20,height=20] icon and selecting *My Books* from the tools list.
 
 The writer tool behaves just like any other word processor.
 Text is typed into the large white pane that mimics a page of white paper.
 The format of the text can be controlled by the icons in the bar at the top of the writing pane:
 
-image::../images/writer-bar.png[Writer bar]
+image::writer-bar.png[Writer bar]
 
 From left to right, the icons on this bar are:
 
@@ -54,7 +55,7 @@ From left to right, the icons on this bar are:
 
 The sidebar to the right of the writing pane displays any cards attached to the chapter currently open in the writer.
 
-. Click on the image:../images/new-card-icon.png[New card,width=20,height=20] icon.
+. Click on the image:new-card-icon.png[New card,width=20,height=20] icon.
 
 . Choose whether to create a new card or link an existing card.
 
@@ -70,7 +71,7 @@ They can be coloured and tagged to assist with sorting and identification.
 
 The image below shows the card interface:
 
-image::../images/new-card-interface.png[New card,400]
+image::new-card-interface.png[New card,400]
 
 . Choose a background colour for the card.
 This can be useful if you want a visual distinction between card types.
@@ -95,7 +96,7 @@ This can be useful if you want a visual distinction between card types.
 == Typewriter mode
 
 Typewriter mode is accessed through the Writer tool.
-Click the 'typewriter' icon (image:../images/typewriter-icon.png[Typewriter mode,24]) in the top bar to enter Typewriter mode.
+Click the 'typewriter' icon (image:typewriter-icon.png[Typewriter mode,24]) in the top bar to enter Typewriter mode.
 
 This mode aims to help you concentrate on your writing by removing as much of the Wavemaker UI as is practical.
 All that remains visible is the Writer formatting bar.
@@ -110,7 +111,7 @@ Exit Typewriter mode by clicking on the `x` icon in the top right.
 [#highlighter-mode]
 == Highlighter mode
 
-Clicking the 'highlighter' icon (image:../images/highlighter-mode-icon.png[Highlighterg mode,24]) in the Writer's main menu bar will reveal a palette of seven colours.
+Clicking the 'highlighter' icon (image:highlighter-mode-icon.png[Highlighterg mode,24]) in the Writer's main menu bar will reveal a palette of seven colours.
 
 You can click on a colour from this palette and any text you type will be highlighted in that colour.
 
