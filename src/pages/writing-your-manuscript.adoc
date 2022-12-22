@@ -2,7 +2,7 @@
 :toc:
 :toclevels: 1
 :toc-title!:
-:imagesdir:../images
+:imagesdir: ../images
 
 = Writing your manuscript
 
@@ -71,7 +71,8 @@ They can be coloured and tagged to assist with sorting and identification.
 
 The image below shows the card interface:
 
-image::new-card-interface.png[New card,400]
+[.thumb]
+image::new-card-interface.png[New card,600]
 
 . Choose a background colour for the card.
 This can be useful if you want a visual distinction between card types.

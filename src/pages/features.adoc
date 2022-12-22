@@ -174,7 +174,7 @@ The Grid Planner is another way to organise your thoughts when writing your manu
 
 The tool lets you create a grid of ideas, images, reminders, events or anything else you might need.
 
-Use the buttons at the top right of the tool to create rows and columns as needed: image:grid-add-rows-columns.png[Add rows and columns,24]
+Use the buttons at the top right of the tool to create rows and columns as needed: image:grid-add-rows-columns.png[Add rows and columns,50]
 
 The axes on the grid can represent whatever you need them to.
 They are completely arbitrary.
