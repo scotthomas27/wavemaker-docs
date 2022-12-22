@@ -13,20 +13,20 @@ The list below contains links to the various sections of the Wavemaker documenta
 Like Wavemaker itself, there is no _correct_ way to use this documentation.
 Read the sections that are relevant to your needs and ignore any that aren't.
 
-* xref:src/pages/features.adoc[Features]
+* xref:features.adoc[Features]
 
-* xref:src/pages/accessing.adoc[Accessing]
+* xref:accessing.adoc[Accessing]
 
-* xref:src/pages/getting-started.adoc[Getting started]
+* xref:getting-started.adoc[Getting started]
 
-* xref:src/pages/navigation.adoc[Navigation]
+* xref:navigation.adoc[Navigation]
 
-* xref:src/pages/writing-your-manuscript.adoc[Writing your manuscript]
+* xref:writing-your-manuscript.adoc[Writing your manuscript]
 
-* xref:src/pages/backup-import-export.adoc[Backup, import and export]
+* xref:backup-import-export.adoc[Backup, import and export]
 
-* xref:src/pages/themes-and-appearance.adoc[Themes and appearance]
+* xref:themes-and-appearance.adoc[Themes and appearance]
 
-* xref:src/pages/development.adoc[Development]
+* xref:development.adoc[Development]
 
 '''

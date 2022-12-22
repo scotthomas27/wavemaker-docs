@@ -53,4 +53,4 @@ Follow the instructions in the xref:backuo-import-export.adoc#import-from-wm3[Im
 
 '''
 
-xref:../index.adoc[Home]
+xref:index.adoc[Home]

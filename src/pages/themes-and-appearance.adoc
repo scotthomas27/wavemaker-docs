@@ -24,4 +24,4 @@ To create a new theme:
 
 '''
 
-xref:../index.adoc[Home]
+xref:index.adoc[Home]
