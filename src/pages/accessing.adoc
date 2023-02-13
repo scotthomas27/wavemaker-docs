@@ -67,7 +67,7 @@ Assume the following:
 
 . A Linux OS.
 
-. The absolute path to the Wavemaker source files is `/opt/lampp/htdocs/wavemakercards/wavemaker-cards-v4/index.html`.
+. The absolute path to the Wavemaker source files is `/opt/lampp/htdocs/wavemakercards/wavemaker-cards-v4/`.
 
 . The configured non-standard port is `3030`
 
