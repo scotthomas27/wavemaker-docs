@@ -438,7 +438,7 @@ body.book #toc,body.book #preamble,body.book h1.sect0,body.book .sect1>h2{page-b
 <ul class="sectlevel1">
 <li><a href="#_web_browser">Web browser</a></li>
 <li><a href="#_local_webapp">Local webapp</a></li>
-<li><a href="#_snapshots">Snapshots</a></li>
+<li><a href="#_local_hosting">Local hosting</a></li>
 <li><a href="#_comparison_table">Comparison table</a></li>
 </ul>
 </div>
@@ -476,8 +476,11 @@ Explore the benefits of each option below.</p>
 </div>
 </div>
 <div class="sect1">
-<h2 id="_snapshots">Snapshots</h2>
+<h2 id="_local_hosting">Local hosting</h2>
 <div class="sectionbody">
+<div class="paragraph">
+<p>The Wavemaker source code can be run locally provided you have a web server installed and running in your environment.</p>
+</div>
 <div class="admonitionblock note">
 <table>
 <tr>
@@ -485,11 +488,99 @@ Explore the benefits of each option below.</p>
 <div class="title">Note</div>
 </td>
 <td class="content">
-Need more information about how this version works.
-Is it simply a GitHub checkout, locally built/run?
+<div class="paragraph">
+<p>The instructions below are OS-agnostic.
+You should search the Internet for instructions on how to perform any of these steps on your particular operating system.</p>
+</div>
 </td>
 </tr>
 </table>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>Install a web server.
+You can install a standalone web server, like <code>Apache2</code> or a bundled web development package such as <code>XAMPP</code>.</p>
+</li>
+<li>
+<p>Configure the webserver to use a non-standard listening port, such as <code>3000</code>.</p>
+</li>
+<li>
+<p>Find out which local folder your chosen webserver uses to serve files.
+For example, for XAMPP in a Linux environment, it would be <code>/opt/lampp/htdocs</code>.
+For Apache2 on Linux, the location would be <code>/var/www/html</code>.</p>
+</li>
+<li>
+<p>Obtain the source code from <a href="https://github.com/wavemakercards">GitHub</a>.</p>
+<div class="olist loweralpha">
+<ol class="loweralpha" type="a">
+<li>
+<p>Clone the repository using <code>git</code> or</p>
+</li>
+<li>
+<p>Download a <code>.zip</code> archive using the web interface.</p>
+</li>
+</ol>
+</div>
+</li>
+<li>
+<p>Copy (or download) the Wavemaker source code into the folder you discovered in <em>Step 3</em>.</p>
+</li>
+<li>
+<p>Start the web server.
+The method for doing this will depend on your choice of web server and your operating system.</p>
+</li>
+<li>
+<p>Open your web browser and navigate to the Wavemaker home page file.
+The path for this will depend on many variables but will likely follow this structure:<br>
+<code><a href="http://localhost:&lt;PORT&gt;/&lt;PATH-TO-WAVEMAKER&gt;/index.html" class="bare">http://localhost:&lt;PORT&gt;/&lt;PATH-TO-WAVEMAKER&gt;/index.html</a></code></p>
+<div class="admonitionblock note">
+<table>
+<tr>
+<td class="icon">
+<div class="title">Note</div>
+</td>
+<td class="content">
+The path to your Wavemaker files will be relative to the folder from <em>Step 3</em>.
+The filesystem path before that point is not needed.
+</td>
+</tr>
+</table>
+</div>
+<div class="exampleblock">
+<div class="title">Example 1. Wavemaker URL</div>
+<div class="content">
+<div class="paragraph">
+<p>Assume the following:</p>
+</div>
+<div class="olist arabic">
+<ol class="arabic">
+<li>
+<p>A <strong>XAMPP</strong> installation.</p>
+</li>
+<li>
+<p>A Linux OS.</p>
+</li>
+<li>
+<p>The absolute path to the Wavemaker source files is <code>/opt/lampp/htdocs/wavemakercards/wavemaker-cards-v4/index.html</code>.</p>
+</li>
+<li>
+<p>The configured non-standard port is <code>3030</code></p>
+</li>
+</ol>
+</div>
+<div class="paragraph">
+<p>In this case, the URL to access Wavemaker once the web server is running would be:</p>
+</div>
+<div class="listingblock copy">
+<div class="content">
+<pre class="highlight"><code>http://localhost:3030/wavemakercards/wavemaker-cards-v4/index.html</code></pre>
+</div>
+</div>
+</div>
+</div>
+</li>
+</ol>
 </div>
 </div>
 </div>
@@ -565,7 +656,7 @@ Is it simply a GitHub checkout, locally built/run?
 </div>
 <div id="footer">
 <div id="footer-text">
-Last updated 2022-12-22 19:58:45 +1000
+Last updated 2023-02-13 20:34:45 +1000
 </div>
 </div>
 </body>

@@ -22,10 +22,71 @@ Wavemaker can be installed on your computer as what is called a Progressive Web 
 
 If you may not always have internet connectivity while writing but you will always be using the same computer, this might be the best option for you.
 
-== Snapshots
+== Local hosting
 
-NOTE: Need more information about how this version works.
-Is it simply a GitHub checkout, locally built/run?
+The Wavemaker source code can be run locally provided you have a web server installed and running in your environment.
+
+[NOTE]
+====
+The instructions below are OS-agnostic.
+You should search the Internet for instructions on how to perform any of these steps on your particular operating system.
+====
+
+. Install a web server.
+You can install a standalone web server, like `Apache2` or a bundled web development package such as `XAMPP`.
+
+. Configure the webserver to use a non-standard listening port, such as `3000`.
+
+. Find out which local folder your chosen webserver uses to serve files.
+For example, for XAMPP in a Linux environment, it would be `/opt/lampp/htdocs`.
+For Apache2 on Linux, the location would be `/var/www/html`.
+
+. Obtain the source code from https://github.com/wavemakercards[GitHub].
+
+.. Clone the repository using `git` or
+
+.. Download a `.zip` archive using the web interface.
+
+. Copy (or download) the Wavemaker source code into the folder you discovered in _Step 3_.
+
+. Start the web server.
+The method for doing this will depend on your choice of web server and your operating system.
+
+. Open your web browser and navigate to the Wavemaker home page file.
+The path for this will depend on many variables but will likely follow this structure: +
+`http://localhost:<PORT>/<PATH-TO-WAVEMAKER>/index.html`
++
+NOTE: The path to your Wavemaker files will be relative to the folder from _Step 3_.
+The filesystem path before that point is not needed.
++
+.Wavemaker URL
+====
+Assume the following:
+
+. A *XAMPP* installation.
+
+. A Linux OS.
+
+. The absolute path to the Wavemaker source files is `/opt/lampp/htdocs/wavemakercards/wavemaker-cards-v4/index.html`.
+
+. The configured non-standard port is `3030`
+
+In this case, the URL to access Wavemaker once the web server is running would be:
+
+[source.copy]
+----
+http://localhost:3030/wavemakercards/wavemaker-cards-v4/index.html
+----
+====
+
+You will have to manually update the source code from GitHub whenever an update is pushed.
+How you do this will depend on the method you originally chose to download the code.
+
+* If you cloned the repository with `git`, then you can update with `git pull`.
+
+* If you downloaded a `zip` archive, you will need to download a new one.
+
+Both methods will require you to copy the updated source code files to the web server folder (if you are not downloading them there directly).
 
 == Comparison table
 
@@ -61,7 +122,7 @@ Is it simply a GitHub checkout, locally built/run?
 |Developer maintained
 ^|Yes
 ^|Yes
-^|No
+^|Yes, provided updates are manually fetched from the Git repository.
 
 |Remotely hosted
 ^|Yes
